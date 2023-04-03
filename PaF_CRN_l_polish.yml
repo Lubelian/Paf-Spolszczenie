@@ -1,0 +1,44 @@
+﻿l_polish:
+
+ ## First Tree ##
+CRN_czarneks_vision:0 "Czarnek's Vision"
+CRN_lublins_path_forward:0 "Lublin's path forward"
+CRN_molding_our_society:0 "Molding our Society"
+CRN_proclaim_lgbt_free_zone:0 "Proclaim LGBT-Free Zone"
+CRN_war_on_cultural_marxism:0 "War on cultural Marxism"
+CRN_purges_in_the_academia:0 "Purges in the Academia"
+CRN_the_traditional_family:0 "The traditional family"
+CRN_patriotic_education:0 "Patriotic education"
+CRN_the_proud_people:0 "The proud People"
+CRN_call_for_polish_reunification:0 "Call for Polish reunification"
+CRN_emphasize_lublinian_identity:0 "Emphasize Lublinian identity"
+CRN_reinforcing_our_control:0 "Reinforcing our Control"
+CRN_strengthen_the_partys_grip:0 "Strengthen the Party's grip"
+CRN_promote_party_membership:0 "Promote Party membership"
+CRN_political_commissars:0 "Political commissars"
+CRN_kaczynskis_true_heir:0 "Kaczyński's True Heir"
+CRN_utilize_clergys_support:0 "Utilize Clergy's support"
+CRN_propaganda_in_the_churches:0 "Propaganda in the churches"
+CRN_priests_in_the_government:0 "Priests in the government"
+CRN_popes_greatest_disciple:0 "Pope's Greatest Disciple"
+CRN_increasing_our_strength:0 "Increasing our Strength"
+CRN_reorganization_of_civil_industry:0 "Reorganization of civil industry"
+CRN_road_repairs:0 "Road repairs"
+CRN_finish_the_opole_railway:0 "Finish the Opole railway"
+CRN_formation_of_new_workshops:0 "Formation of new workshops"
+CRN_fotifications_on_bystrzyca:0 "Fortifications on Bystrzyca"
+CRN_the_arsenal_restocked:0 "The arsenal restocked"
+CRN_on_the_warpath:0 "On the Warpath"
+
+ ##Events##
+
+
+
+unification.7.t:0 "[GetNewspaper]The Catholic Republic unifies the Lublin Voivodeship"
+unification.7.desc:0 "Some new information has reached us from Eastern Poland. Reports say that the provisional government of Przemysław Czarnek, a Deputy Prime Minister before the state’s collapse and a former Lublinian Voivode, after many months of local conflicts has recently gained control of the entirety of the Lublin Voivodeship.\n\nPrzemysław Czarnek has been considered one of the most outspoken and controversial figures of the Law and Justice government. As a staunch social conservative, he’s been claiming that cultural Marxism and LGBT ideology are the biggest threats to the Polish nation, and their spread needs to be stopped as quickly as possible. His rule in the now unified Lublin region seems to be reflecting that, with reports of LGBT persecution and a strong presence of the Catholic Church commonly making their way to other parts of the country."
+unification.7.a:0 "A conservative region reclaimed by Law and Justice."
+
+ ##Characters##
+POLITICS_PRZEMYSLAW_CZARNEK_DESC:0 "Marksizm kulturowy przeniknął do Polski. Europejski neobolszewizm, dewiacje LGBT, pozbawiony kręgosłupa moralnego ateizm, zachodni tzw. "progresywizm" i "liberalizm" - próbują zniszczyć fundamenty naszego narodu i społeczeństwa. Chcą zindoktrynować nasze dzieci, zdemontować naturalny, tradycyjny model rodziny, wymazać naszą dumną historię i zmusić nas do porzucenia Chrystusa i Jego nauk. W tych strasznych czasach tylko jeden człowiek ma wciąż odwagę, by przeciwstawić się siłom zła.\n\nPrzemysław Czarnek ostrzegał Polaków przez wiele lat. Jako profesor KUL-u, jako wojewoda lubelski, następnie jako minister edukacji, a później jako wicepremier RP. A jednak ludzie nie chcieli słuchać. Został wyśmiany, pogardzany, protestowano przeciwko niemu. Nigdy jednak nie stracił wiary w swoją misję. Stał twardo w obronie Polskich i chrześcijańskich wartości. A kiedy kolejny krok lewicowego planu się powiódł i państwo polskie się rozpadło, wiedział, że jego misja stała się ważniejsza niż kiedykolwiek.\n\nUdało mu się zawrzec sojusz z dwoma skrajnie prawicowymi działaczami i wspólnymi siłami zdobyć dużą kontrolę, nad zachodnią częścią województwa lubelskiego wraz z stolicą. Ta nowo odkryta potęga zwana Frontem Narodowym była gotowa do dalszej ekspansji, która miała na celu przywrócić polskiemu społeczeństwu chrześcijańskie korzenie, ale natychmiast zaczęły pojawiać się pęknięcia. W przewidywalnym obrocie wydarzeń prymitywny faszystowski brutal i szalony przywódca sekty protestanckiej okazali się równie podli, jak wszyscy inni i wkrótce zdradzają go w nędznej próbie zdobycia jak największej osobistej władzy.\n\nFront leży rozbity. Czarnek nie mógł powstrzymać ich secesji na północy i południu ani powstania anarchistów na wschodzie, które objęło nawet dużą część Lublina. Jednakże stracił większość terytorium, w końcu uzyskał rzeczywistą kontrolę. Dopiero teraz jest w stanie w pełni realizować swoją katolicką politykę, wolną od sprzeczek dawnych sojuszników. Prawdziwa krucjata o polską duszę zaczyna się teraz, a że Czarnek nigdy wcześniej nie stracił wiary w swoją misję, nie zamierza tego robić dzisiaj."
+ ##Decisions##
+CRN_regional_unification:0 "Unify the Lublin Voivodeship"

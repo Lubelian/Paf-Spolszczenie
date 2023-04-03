@@ -1,0 +1,77 @@
+﻿l_polish:
+## National Spirits ##
+CAL_ager_publicus:0 "Ager Publicus"
+CAL_ager_publicus_desc:0 "Ziemia zarekwirowana przez kwestorów, uprawiana przez bezrolnych chłopów jest przeznaczona na najbardziej palące potrzeby państwa. Tam właśnie powstają szczególnie potrzebne dla Kaliskiego przemysłu materiały takie jak wikilna, olej rzepakowy czy pomidory bez których stanęła by cała produkcja, a lud burzył by się na Forum Calisium. Niestety do uszu Imperatora dochodzą niepokojące informacje o nadużyciach senatorskich nadzorców i postępującej defraudacji majątku państwowego. Trzeba przyjrzeć się tej sprawie…"
+CAL_civic_faith:0 "Civic Faith"
+CAL_civic_faith_desc:0 "Państwo i Imperator są naszą wspólną dumą. Wypełnia ich łaska Bogów która sprawia, że są oni uosobieniem cnoty – najwyższej formy moralności. Jesteśmy gotowi walczyć o naszą prawdę i naszą godność ze wszystkim co zostało zepsute przez gnuśność nam współczesnych."
+CAL_civic_army:0 "Civic Army"
+CAL_civic_army_desc:0 "Żelazna dyscyplina jest kluczem do sukcesu, każdy legion, każdy manipuł i każda centuria muszą znać swoje miejsce i obowiązki aby wyznaczony cel został osiągnięty. Każdy obywatel musi zdawać sobie z tego sprawę i być gotowym do walki w imię Imperium."
+## First Tree ##
+ 
+ 
+CAL_dobrze_jest_byc_cesarzem: "It's Good to be an Emperor"
+CAL_zwyczajowe_dary_od_senatorow: "Customary Gifts from Senators"
+CAL_merytokratyczny_psikus: ""Meritocratic" Prank"
+CAL_wyslanie_kwestorow_w_teren: "Sending Quaestors into the Field"
+CAL_odwdzieczenie_sie: "Repayment"
+CAL_budowa_siatki_kontaktow: "Aquiring New Contacts"
+CAL_niebywale_doniesienia: "Incredible Reports"
+CAL_sprawa_ager_publicus: "Casus Ager Publicus"
+CAL_mowa_o_naduzyciach: "Speech about Abuses"
+CAL_cyceronski_sznyt: "Ciceronian Flair"
+CAL_rozkradanie_res_publici: "Robbing the Res Publica"
+CAL_stracone_szanse: "Lost Chances"
+CAL_gniewnosc_demostenesa: "Demosthenes' Wrath"
+CAL_ubozenie_zwyklych_obywateli: "Impoverishing Common Citizens"
+CAL_glod_ziemi_o_stali: "Hungering for Land and Steel"
+CAL_chaos_na_komisjach: "Chaos in Committees"
+CAL_armia_obywatelska: "Exercitus Civitatum"
+CAL_wyzszy_zold_dla_pretorian: "Higher Pay for Praetorians"
+CAL_wino_w_koszarach: "Wine in Barracks"
+CAL_wyzszy_zold_i_wieksza_dyscyplina: "Higher Pay, Higher Discipline"
+CAL_krew_na_piachu: "Blood on Sand"
+CAL_lojalnosc_wiecznego_miasta: "Loyalty of the Eternal City"
+CAL_imperator_gwarantem_pokoju: "The Emperor Protects!"
+CAL_lex_commutationis_et_perspicuitais: "Lex Commutationis et Perspicuitatis"
+CAL_lex_lustitiae_socialis:0 "Lex Iustitiae Socialis"
+
+
+CAL_dobrze_jest_byc_cesarzem_desc: ""
+CAL_zwyczajowe_dary_od_senatorow_desc: ""
+CAL_merytokratyczny_psikus_desc: ""
+CAL_wyslanie_kwestorow_w_teren_desc: ""
+CAL_odwdzieczenie_sie_desc: ""
+CAL_budowa_siatki_kontaktow_desc: ""
+CAL_niebywale_doniesienia_desc: ""
+CAL_sprawa_ager_publicus_desc: ""
+CAL_mowa_o_naduzyciach_desc: ""
+CAL_cyceronski_sznyt_desc: ""
+CAL_rozkradanie_res_publici_desc: ""
+CAL_stracone_szanse_desc: ""
+CAL_gniewnosc_demostenesa_desc: ""
+CAL_ubozenie_zwyklych_obywateli_desc: ""
+CAL_glod_ziemi_o_stali_desc: ""
+CAL_chaos_na_komisjach_desc: ""
+CAL_armia_obywatelska_desc: ""
+CAL_wyzszy_zold_dla_pretorian_desc: ""
+CAL_wino_w_koszarach_desc: ""
+CAL_wyzszy_zold_i_wieksza_dyscyplina_desc: ""
+CAL_krew_na_piachu_desc: ""
+CAL_lojalnosc_wiecznego_miasta_desc: ""
+CAL_imperator_gwarantem_pokoju_desc: ""
+CAL_lex_commutationis_et_perspicuitais_desc: ""
+CAL_lex_lustitiae_socialis_desc: ""
+
+
+ 
+ ##Events##
+
+
+
+unification.31.t:0 "[GetNewspaper]Calisia unifies Southern Greater Poland"
+unification.31.desc:0 "In a radio broadcast to all of Greater Poland, an address was given by none other than Ryszard Kalisz; Though anyone who has been around the region can say that the man speaking was no longer the same as everyone knew him before the Fall, going under the name Ricardus Calisius, all signs point to the politician seeking to establish a new Roman Empire in the heart of Poland following this radical change. Through skillfully swaying the local political figures he had managed to become a major contender in the region through semi-modernized Roman reforms. An army of Legionnaires, coinage with the Emperor’s facade and new marble buildings soon to be constructed in recently romanized cities really give off a look of being brought back to the distant past. It remains to be seen what will arise from this state of pseudo-Roman reenactors, though it goes without saying that even if their folly is to end, the Polish-Roman state will no doubt go down in history as another in a long list of oddities resulting from the Fall."
+unification.31.a:0 "Ave Nero Polonicus?"
+
+ ##Characters##
+ POLITICS_RICARDUS_CALISIUS_DESC:0 "For all of his life Ryszard Kalisz felt some kind of yearning in the back of his mind. He could feel it while walking past inscribed with legal maxims columns of the Supreme Court, watching Asterix and Obelix: Mission Cleopatra or eating pizza. Whenever he held a speech, be it in court or in Sejm, he could feel behind him the presence of someone far greater and wiser then jury or Marshal of the Sejm. He dismissed it and carried on. Former socialist, lawyer, politician – hardly the most respectable cursus honorum, although typical. \n\nIt was right after the collapse his inner consciousness had awoken. Running away (either from the blast or the angered mob), he hid himself in a wine cellar in Kalisz. Whatever happened there will be forever shrouded in mystery. On the third day he emerged, draped in a bedsheet tinted purple with Lazio wine, with a golden laurel on his head and perfect knowledge of all five Latin declinations. \n\nHowever odd Kalisz wouldn’t seem, locals did greatly appreciate his restlessness and talent for reorganisation. No one batted an eye when he ordered construction of an aqueduct or organising games in the amphitheatre. However, when he proclaimed himself divine regent of Jupiter, some people thought he might be going too far. By this stage, however, his rule was cemented. Kalisz approached members of local elites and offered them an attractive deal: land in exchange for political power. Soon afterwards senate convened and proclaimed Kalisz – now Ricardus Romanus Calisius – first a consul for life, and soon after – the emperor of Calisia. The new dictator’s first edict shocked many to the bone: he denounced Christianity in favour of paganism and ordered confiscation of the Church lands to create a reserve of public land for the bene meritorum. \n\nKalisz walks a tightrope between the optimate faction, which looks forward to seizing as much wealth as possible, and the populares, who point out to crying inequality in the nascent empire. The conflict is spiced up by uncertainty about Calisius’ mental state. As mad as he seems, he refurbished this piece of post-collapse Poland into a strong, well functioning statelet. His past made many think he’d turn out to be an opportunist, but his decision to crack down on the Catholic Church proved he isn’t afraid to cross the Rubicon. The true extent of emperor’s ambition – or folly – will be soon known..."
+ ##Decisions##

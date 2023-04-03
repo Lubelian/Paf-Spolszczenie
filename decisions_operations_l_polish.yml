@@ -1,0 +1,21 @@
+﻿l_polish:
+  recruit_in_central_poland:0 "Utworzenie sekcji środkowopolskiej" 
+  recruit_in_central_poland_state:0 "Rekrutacja w Środkowej Polsce"
+  recruit_in_pomorze:0 "Utworzenie sekcji pomorskiej"
+  recruit_in_pomorze_state:0 "Rekrutacja na Pomorzu"
+  recruit_in_slask:0 "Utworzenie sekcji śląskiej"
+  recruit_in_slask_state:0 "Rekrutacja na Śląsku"
+  recruit_in_malopolska:0 "Utworzenie sekcji małopolskiej" 
+  recruit_in_malopolska_state:0 "Rekrutacja w Małopolsce"
+  recruit_in_mazowsze_mazury:0 "Utworzenie sekcji warmińsko-mazurskiej"
+  recruit_in_mazowsze_mazury_state:0 "Rekrutacja w Warmii i Mazurach"
+  recruit_in_other_territories:0 "Utworzenie sekcji zagranicznej"
+  recruit_in_other_territories_state:0 "Rekrutacja z zagranicy"
+  LAR_recruitment_central_poland:0 "Utworzenie sekcji środkowopolskiej"
+  LAR_recruitment_pomorze:0 "Utworzenie sekcji pomorskiej"
+  LAR_recruitment_slask:0 "Utworzenie sekcji śląskiej"
+  LAR_recruitment_malopolska:0 "Utworzenie sekcji małopolskiej"
+  LAR_recruitment_mazowsze_mazury:0 "Utworzenie sekcji warmińsko-mazurskiej"
+  LAR_recruitment_other_territories:0 "Utworzenie sekcji zagranicznej"
+
+

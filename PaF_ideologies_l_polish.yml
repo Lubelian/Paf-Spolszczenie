@@ -1,0 +1,244 @@
+﻿l_polish:
+marxism_cranism:0 "Marksizm-Dźwigizm"
+squattism:0 "Skłotyzm"
+socialdemocrature:0 "Socjaldemokratura"
+euroliberalism:0 "Euroliberalizm"
+freemarketism:0 "Wolnorynkowość"
+paternal_conservatism:0 "Konserwatyzm paternalistyczny" 
+autocracy:0 "Autokracja"
+reactionary:0 "Reakcjonizm"
+neonationalism:0 "Neonacjonalizm"
+corporativism:0 "Korporokracja"
+postpolonism:0 "Postpolonizm"
+marxism_cranism_noun:0 "Marksizm-Dźwigizm"
+squattism_noun:0 "Skłotyzm"
+socialdemocrature_noun:0 "Socjaldemokratura"
+euroliberalism_noun:0 "Euroliberalizm"
+freemarketism_noun:0 "Wolnorynkowość"
+paternal_conservatism_noun:0 "Konserwatyzm paternalistyczny"
+autocracy_noun:0 "Autokracja"
+reactionary_noun:0 "Reakcjonizm"
+neonationalism_noun:0 "Neonacjonalizm"
+corporativism_noun:0 "Korporacjonizm"
+postpolonism_noun:0 "Postpolonizm"
+marxism_cranism_desc:0 "Marksizm-Dźwigizm"
+squattism_desc:0 "Skłotyzm"
+socialdemocrature_desc:0 "Socjaldemokratura"
+euroliberalism_desc:0 "Euroliberalizm"
+freemarketism_desc:0 "Wolnorynkowość"
+paternal_conservatism_desc:0 "Konserwatyzm paternalistyczny"
+autocracy_desc:0 "Autokracja"
+reactionary_desc:0 "Reakcjonizm"
+neonationalism_desc:0 "Neonacjonalizm"
+corporativism_desc:0 "Korporacjonizm"
+postpolonism_desc:0 "Postpolonizm"
+
+
+### SUBIDEOLOGIE
+
+scout_system_subtype:0 "System harcerski"
+marxism_cranism_stalinism_subtype:0 "Stalinizm"
+marxism_cranism_maoism_subtype:0 "Maoizm"
+marxism_cranism_peoples_army_subtype:0 "Armia ludowa"
+marxism_cranism_clubism_subtype:0 "Klubizm"
+squattism_raider_rule_subtype:0 "Rządy Najeźdźców"
+squattism_anarcho_comunism_subtype:0 "Anarchokomunizm"
+squattism_anti_fascism_subtype:0 "Antyfaszyzm"
+socialdemocrature_nordic_model_subtype:0 "Model nordycki"
+socialdemocrature_humanitarianism_subtype:0 "Humanitaryzm"
+socialdemocrature_progressivism_subtype:0 "Progresywizm"
+euroliberalism_transisional_eurogovernment_subtype:0 "Transisional Eurogovernment"
+euroliberalism_regionalism_subtype:0 "Regionalizm"
+euroliberalism_dialogue_subtype:0 "Dialog"
+freemarketism_american_liberalism_subtype:0 "Amerykański liberalizm" 
+freemarketism_anarchocapitalism_subtype:0 "Anarchokapitalizm" 
+korwinism_subtype:0 "Neokorwinizm"
+paternal_conservatism_liberal_conservatism_subtype:0 "Liberalny konserwatyzm" 
+paternal_conservatism_christian_democracy_subtype:0 "Chrześcijańska demokracja"
+paternal_conservatism_national_conservatism_subtype:0 "Narodowy konserwatyzm"
+paternal_conservatism_kaczynskism_subtype:0 "Kaczyzm"
+autocracy_national_oligarchy_subtype:0 "Narodowa Oligarchia"
+autocracy_military_junta_subtype:0 "Junta wojskowa"
+autocracy_absolutism_subtype:0 "Absolutyzm"
+autocracy_kleptocratic_statism_subtype:0 "Kleptokratyczna Klika"
+autocracy_theocracy_subtype:0 "Teokracja"
+neonationalism_populist_dictatorship_subtype:0 "Populistyczna Dyktatura"
+neonationalism_regional_nationalism_subtype:0 "Regionalny Nacjonalizm"
+neonationalism_national_socialism_subtype:0 "Narodowy Socjalizm"
+neonationalism_national_feminism_subtype:0 "Narodowy Feminizm"
+neonationalism_national_argarianism_subtype:0 "Narodowy agraryzm" 
+neonationalism_national_bolshevism_subtype:0 "Narodowy bolszewizm" 
+neonationalism_national_catholicism_subtype:0 "Narodowy katolicyzm"
+neonationalism_hooliganism_subtype:0 "Kibolizm"
+reactionary_traditional_monarchism_subtype:0 "Tradycjonalistyczny Monarchizm"
+reactionary_medievalism_subtype:0 "Medievalism"
+reactionary_sarmatism_subtype:0 "Sarmatyzm"
+reactionary_sanation_subtype:0 "Sanacja"
+reactionary_paganism_subtype:0 "Poganizm"
+reactionary_radical_carbonism_subtype:0 "Radykalny Karbonizm"
+reactionary_militarism_subtype:0 "Militaryzm"
+postpolonism_romuva_revivalism_subtype:0 "Romuva Revivalism"
+postpolonism_light_side_of_the_force_subtype:0 "Jasna Strona Mocy"
+postpolonism_bloodmarketism_subtype:0 "Bloodmarketism"
+postpolonism_nemesism_subtype:0 "Nemesism"
+postpolonism_astralism_subtype:0 "Astralism"
+postpolonism_prepolonism_subtype:0 "Prepolonizm"
+postpolonism_redacted_subtype:0 "[REDACTED]"
+postpolonism_messianism_subtype:0 "Mesjanizm"
+postpolonism_pol_potism_subtype:0 "Pol Potyzm"
+postpolonism_the_undead_horde_subtype:0 "Horda nieumarłych"
+postpolonism_dargon_cult_subtype:0 "Kult smoka" 
+postpolonism_valkism_subtype:0 "Walkizm"
+postpolonism_rastarafianism_subtype:0 "Rastafarianizm"
+postpolonism_sanitarism_subtype:0 "Sanitaryzm"
+postpolonism_posthumanism_subtype:0 "Posthumanism"
+postpolonism_postrussianism_subtype:0 "Postrussianism"
+postpolonism_1984_subtype:0 "Literalnie 1984"
+postpolonism_inti_subtype:0 "Inti"
+postpolonism_nihilism_subtype:0 "Nihilizm"
+
+### OPISY SUBIDEOLOGII
+
+marxism_cranism_subtype_desc:0 "Czerpiąc z nauk XIX-wiecznego filozofa Karola Marksa, marksiści dążą do obalenia kapitalizmu i zbudowania bezklasowego, bezpaństwowego i bezpieniężnego społeczeństwa, poprzez wprowadzenie tymczasowej dyktatury proletariatu. Ponadto polscy marksiści odwołują się do dziedzictwa PRL-u i PZPR. Polski marksizm dąży także do wyzwolenia polski spod tego, co nazywają imperialistycznym jarzmem Unii Europejskiej i jej Komisariatów."
+
+squattism_subtype_desc:0 "Skłotyzm to niejasny termin odnoszący się do wszelkiego rodzaju społeczności, ruchów, ideologi charakteryzujących się wysoce zdecentralizowanymi, niebiurokariatycznymi, niemal plemiennymi sposobami rządzenia i życia. Prawie wszyscy skłotyści podzielają prosamorządowe, antypaństwowe i antypolicyjne idee. Dążą oni do pozbycia się jakiejkolwiek ingerencji rządu w ich styl życia, ale jeśli chodzi o politykę społeczną to rozciągają się od anarchistów i anarchistycznych lewicowców, po prawicowe, nacjonalistyczne a nawet faszystowskie chuligaństwo, które potępia ingerencje policji w ich życie, obejmują więc całe spektrum polityczne. Samorządne wioski i społeczeństwa które nie mają jakichkolwiek politycznych skłonności również podpadają pod termin skłotyzmu."
+
+socialdemocrature_subtype_desc:0 "Szukając kompromisu między socjalistycznymi postulatami a liberalną demokracją i kapitalizmem, polscy socjaldemokraci opowiadają się za silnym państwem opiekuńczym i redystrybucją bogactwa poprzez programy socjalne, przy jednoczesnym zachowaniu gospodarki rynkowej. Chociaż większość socjaldemokratów w Polsce promuje wartości postępowe w swoim światopoglądzie, istnieją również bardziej umiarkowane lub konserwatywne odłamy socjaldemokracji."
+
+euroliberalism_subtype_desc:0 "Kryzys państwa polskiego okazał się także kryzysem myśli liberalnej na jego terytoriach. Poparcie liberałów dla interwencji wojskowej Unii Europejskiej w zachodnich prowincjach przełożyło się na niemal ogólnokrajowe odrzucenie liberalizmu na terenach dawnej Polski. Nieliczni liberałowie, którzy trzymali się swoich ideałów, niosą na swoich sztandarach ideały umiarkowania i pojednania, a także odbudowy liberalnej demokracji w Polsce na wzór prawdziwie europejski."
+
+freemarketism_subtype_desc:0 "Korzenie ideologii libertariańskiej w Polsce sięgają lat 90 i działalności politycznej Janusza Korwin-Mikkego. Ideologia ta uważana za niszową, w ostatnich latach zaczęła zdobywać popularność wśród klasy średniej w dużych miastach dawnej Polski. Chociaż libertarianie nie mają wspólnej linii ideologicznej, podzielają zamiłowanie do "państwa minimalnego" i leseferycznego wolnego rynku."
+
+paternal_conservatism_subtype_desc:0 "Zwolennicy konserwatywnej ideologii, którzy w dużej mierze byli odpowiedzialni za kryzys i rozpad państwa polskiego w latach 20., w większości zwracali się ku bardziej radykalnym częściom swojej idei. Ci nieliczni, którzy pozostali na stanowiskach chadeckich i socjal konserwatywnych, w dużej mierze kontynuują swoje poparcie dla programu sprzed upadku Zjednoczonej Prawicy, a także dla zbrojnego oporu wobec europejskiej interwencji na Zachodzie."
+
+autocracy_subtype_desc:0 "Ci, którzy stracili wiarę w rządy ludu, zwrócili się ku temu, co im pozostało - rządy silnej ręki. Despotyczne rządy, zwykle pozbawione wszelkiej ideologii, polegają niemal wyłącznie na sile dyktatora i jego otoczenia – czy to resztkach armii, policji, czy bojowników zgromadzonych w kierunku charyzmatycznego przywódcy. Despoci lekceważą wolę ludu, zarówno w swoich granicach, jak i poza nimi, a wielu z nich całkowicie straciło swój kompas moralny w ogniu wojny."
+
+reactionary_subtype_desc:0 "Nostalgia jest potężną bronią. Tęsknota za starymi dobrymi czasami sprawiła, że ludzie niejednokrotnie angażowali się w radykalne ideologie. Reakcjoniści w Polsce, wzywający do przywrócenia starego porządku, nie mają już na myśli stanu rzeczy sprzed kilkudziesięciu lat. Twierdzenia, że należy cofnąć się jeszcze dalej, wieki, a nawet do pierwotnych form reżimów, stają się coraz bardziej popularne. Nawet jeśli nie pochodzą z kultury polskiej czy zachodniej."
+
+corporativism_subtype_desc:0 "Pomimo tego, że gospodarka centralna Polski popadła w chaos, w całym kraju wciąż istnieją firmy, które mimo załamania gospodarczego funkcjonują i starają się przestrzegać zasady business as usual. Najwięksi z nich mają nawet władzę i kapitał do samodzielnego rządzenia danym terytorium, a natura hierarchii późnego kapitalizmu państwowego sprawia, że bliżej im do modelu feudalnego niż do nowoczesnego społeczeństwa."
+
+postpolonism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+neonationalism_subtype_desc:0 "Ciężkie czasy to dla jednych chwile upadku, dla innych chwile chwały. Narodowi radykałowie potrafili wykorzystać ciężkie czasy do zdobycia chwały. Domagając się silnego, zjednoczonego narodowo państwa polskiego, nacjonaliści nie zawahają się użyć wszelkich dostępnych im środków, aby je odbudować - z ruin, jeśli zajdzie taka potrzeba. Kliki nacjonalistyczne są zwykle kierowane przez charyzmatycznych przywódców, którzy utrzymują swoją władzę dzięki silnej wierze ideologicznej swoich bojowników."
+
+#################### PLACE HOLDERY #########################
+
+marxism_cranism_stalinism_subtype_desc:0 "Czerpiąc z nauk XIX-wiecznego filozofa Karola Marksa, marksiści dążą do obalenia kapitalizmu i zbudowania bezklasowego, bezpaństwowego i bezpieniężnego społeczeństwa, poprzez wprowadzenie tymczasowej dyktatury proletariatu. Ponadto polscy marksiści odwołują się do dziedzictwa PRL-u i PZPR. Polski marksizm dąży także do wyzwolenia polski spod tego, co nazywają imperialistycznym jarzmem Unii Europejskiej i jej Komisariatów."
+
+marxism_cranism_maoism_subtype_desc:0 "Czerpiąc z nauk XIX-wiecznego filozofa Karola Marksa, marksiści dążą do obalenia kapitalizmu i zbudowania bezklasowego, bezpaństwowego i bezpieniężnego społeczeństwa, poprzez wprowadzenie tymczasowej dyktatury proletariatu. Ponadto polscy marksiści odwołują się do dziedzictwa PRL-u i PZPR. Polski marksizm dąży także do wyzwolenia polski spod tego, co nazywają imperialistycznym jarzmem Unii Europejskiej i jej Komisariatów."
+
+marxism_cranism_peoples_army_subtype_desc:0 "Czerpiąc z nauk XIX-wiecznego filozofa Karola Marksa, marksiści dążą do obalenia kapitalizmu i zbudowania bezklasowego, bezpaństwowego i bezpieniężnego społeczeństwa, poprzez wprowadzenie tymczasowej dyktatury proletariatu. Ponadto polscy marksiści odwołują się do dziedzictwa PRL-u i PZPR. Polski marksizm dąży także do wyzwolenia polski spod tego, co nazywają imperialistycznym jarzmem Unii Europejskiej i jej Komisariatów."
+
+marxism_cranism_clubism_subtype_desc:0 "Czerpiąc z nauk XIX-wiecznego filozofa Karola Marksa, marksiści dążą do obalenia kapitalizmu i zbudowania bezklasowego, bezpaństwowego i bezpieniężnego społeczeństwa, poprzez wprowadzenie tymczasowej dyktatury proletariatu. Ponadto polscy marksiści odwołują się do dziedzictwa PRL-u i PZPR. Polski marksizm dąży także do wyzwolenia polski spod tego, co nazywają imperialistycznym jarzmem Unii Europejskiej i jej Komisariatów."
+
+squattism_raider_rule_subtype_desc:0 "Skłotyzm to niejasny termin odnoszący się do wszelkiego rodzaju społeczności, ruchów, ideologi charakteryzujących się wysoce zdecentralizowanymi, niebiurokariatycznymi, niemal plemiennymi sposobami rządzenia i życia. Prawie wszyscy skłotyści podzielają prosamorządowe, antypaństwowe i antypolicyjne idee. Dążą oni do pozbycia się jakiejkolwiek ingerencji rządu w ich styl życia, ale jeśli chodzi o politykę społeczną to rozciągają się od anarchistów i anarchistycznych lewicowców, po prawicowe, nacjonalistyczne a nawet faszystowskie chuligaństwo, które potępia ingerencje policji w ich życie, obejmują więc całe spektrum polityczne. Samorządne wioski i społeczeństwa które nie mają jakichkolwiek politycznych skłonności również podpadają pod termin skłotyzmu."
+
+squattism_anarcho_comunism_subtype_desc:0 "Skłotyzm to niejasny termin odnoszący się do wszelkiego rodzaju społeczności, ruchów, ideologi charakteryzujących się wysoce zdecentralizowanymi, niebiurokariatycznymi, niemal plemiennymi sposobami rządzenia i życia. Prawie wszyscy skłotyści podzielają prosamorządowe, antypaństwowe i antypolicyjne idee. Dążą oni do pozbycia się jakiejkolwiek ingerencji rządu w ich styl życia, ale jeśli chodzi o politykę społeczną to rozciągają się od anarchistów i anarchistycznych lewicowców, po prawicowe, nacjonalistyczne a nawet faszystowskie chuligaństwo, które potępia ingerencje policji w ich życie, obejmują więc całe spektrum polityczne. Samorządne wioski i społeczeństwa które nie mają jakichkolwiek politycznych skłonności również podpadają pod termin skłotyzmu."
+
+squattism_anti_fascism_subtype_desc:0 "Skłotyzm to niejasny termin odnoszący się do wszelkiego rodzaju społeczności, ruchów, ideologi charakteryzujących się wysoce zdecentralizowanymi, niebiurokariatycznymi, niemal plemiennymi sposobami rządzenia i życia. Prawie wszyscy skłotyści podzielają prosamorządowe, antypaństwowe i antypolicyjne idee. Dążą oni do pozbycia się jakiejkolwiek ingerencji rządu w ich styl życia, ale jeśli chodzi o politykę społeczną to rozciągają się od anarchistów i anarchistycznych lewicowców, po prawicowe, nacjonalistyczne a nawet faszystowskie chuligaństwo, które potępia ingerencje policji w ich życie, obejmują więc całe spektrum polityczne. Samorządne wioski i społeczeństwa które nie mają jakichkolwiek politycznych skłonności również podpadają pod termin skłotyzmu."
+
+socialdemocrature_nordic_model_subtype_desc:0 "Szukając kompromisu między socjalistycznymi postulatami a liberalną demokracją i kapitalizmem, polscy socjaldemokraci opowiadają się za silnym państwem opiekuńczym i redystrybucją bogactwa poprzez programy socjalne, przy jednoczesnym zachowaniu gospodarki rynkowej. Chociaż większość socjaldemokratów w Polsce promuje wartości postępowe w swoim światopoglądzie, istnieją również bardziej umiarkowane lub konserwatywne odłamy socjaldemokracji."
+
+socialdemocrature_humanitarianism_subtype_desc:0 "Szukając kompromisu między socjalistycznymi postulatami a liberalną demokracją i kapitalizmem, polscy socjaldemokraci opowiadają się za silnym państwem opiekuńczym i redystrybucją bogactwa poprzez programy socjalne, przy jednoczesnym zachowaniu gospodarki rynkowej. Chociaż większość socjaldemokratów w Polsce promuje wartości postępowe w swoim światopoglądzie, istnieją również bardziej umiarkowane lub konserwatywne odłamy socjaldemokracji."
+
+socialdemocrature_progressivism_subtype_desc:0 "Szukając kompromisu między socjalistycznymi postulatami a liberalną demokracją i kapitalizmem, polscy socjaldemokraci opowiadają się za silnym państwem opiekuńczym i redystrybucją bogactwa poprzez programy socjalne, przy jednoczesnym zachowaniu gospodarki rynkowej. Chociaż większość socjaldemokratów w Polsce promuje wartości postępowe w swoim światopoglądzie, istnieją również bardziej umiarkowane lub konserwatywne odłamy socjaldemokracji."
+
+euroliberalism_transisional_eurogovernment_subtype_desc:0 "Kryzys państwa polskiego okazał się także kryzysem myśli liberalnej na jego terytoriach. Poparcie liberałów dla interwencji wojskowej Unii Europejskiej w zachodnich prowincjach przełożyło się na niemal ogólnokrajowe odrzucenie liberalizmu na terenach dawnej Polski. Nieliczni liberałowie, którzy trzymali się swoich ideałów, niosą na swoich sztandarach ideały umiarkowania i pojednania, a także odbudowy liberalnej demokracji w Polsce na wzór prawdziwie europejski."
+
+euroliberalism_regionalism_subtype_desc:0 "Kryzys państwa polskiego okazał się także kryzysem myśli liberalnej na jego terytoriach. Poparcie liberałów dla interwencji wojskowej Unii Europejskiej w zachodnich prowincjach przełożyło się na niemal ogólnokrajowe odrzucenie liberalizmu na terenach dawnej Polski. Nieliczni liberałowie, którzy trzymali się swoich ideałów, niosą na swoich sztandarach ideały umiarkowania i pojednania, a także odbudowy liberalnej demokracji w Polsce na wzór prawdziwie europejski."
+
+euroliberalism_dialogue_subtype_desc:0 "Kryzys państwa polskiego okazał się także kryzysem myśli liberalnej na jego terytoriach. Poparcie liberałów dla interwencji wojskowej Unii Europejskiej w zachodnich prowincjach przełożyło się na niemal ogólnokrajowe odrzucenie liberalizmu na terenach dawnej Polski. Nieliczni liberałowie, którzy trzymali się swoich ideałów, niosą na swoich sztandarach ideały umiarkowania i pojednania, a także odbudowy liberalnej demokracji w Polsce na wzór prawdziwie europejski."
+
+freemarketism_american_liberalism_subtype_desc:0 "Korzenie ideologii libertariańskiej w Polsce sięgają lat 90 i działalności politycznej Janusza Korwin-Mikkego. Ideologia ta uważana za niszową, w ostatnich latach zaczęła zdobywać popularność wśród klasy średniej w dużych miastach dawnej Polski. Chociaż libertarianie nie mają wspólnej linii ideologicznej, podzielają zamiłowanie do "państwa minimalnego" i leseferycznego wolnego rynku."
+
+freemarketism_anarchocapitalism_subtype_desc:0 "Korzenie ideologii libertariańskiej w Polsce sięgają lat 90 i działalności politycznej Janusza Korwin-Mikkego. Ideologia ta uważana za niszową, w ostatnich latach zaczęła zdobywać popularność wśród klasy średniej w dużych miastach dawnej Polski. Chociaż libertarianie nie mają wspólnej linii ideologicznej, podzielają zamiłowanie do "państwa minimalnego" i leseferycznego wolnego rynku."
+
+korwinism_subtype_desc:0 "Korzenie ideologii libertariańskiej w Polsce sięgają lat 90 i działalności politycznej Janusza Korwin-Mikkego. Ideologia ta uważana za niszową, w ostatnich latach zaczęła zdobywać popularność wśród klasy średniej w dużych miastach dawnej Polski. Chociaż libertarianie nie mają wspólnej linii ideologicznej, podzielają zamiłowanie do "państwa minimalnego" i leseferycznego wolnego rynku."
+
+paternal_conservatism_liberal_conservatism_subtype_desc:0 "Zwolennicy konserwatywnej ideologii, którzy w dużej mierze byli odpowiedzialni za kryzys i rozpad państwa polskiego w latach 20., w większości zwracali się ku bardziej radykalnym częściom swojej idei. Ci nieliczni, którzy pozostali na stanowiskach chadeckich i socjalkonserwatywnych, w dużej mierze nadal popierają program sprzed upadku Zjednoczonej Prawicy, a także zbrojny opór wobec europejskiej interwencji na Zachodzie."
+
+paternal_conservatism_christian_democracy_subtype_desc:0 "Zwolennicy konserwatywnej ideologii, którzy w dużej mierze byli odpowiedzialni za kryzys i rozpad państwa polskiego w latach 20., w większości zwracali się ku bardziej radykalnym częściom swojej idei. Ci nieliczni, którzy pozostali na stanowiskach chadeckich i socjalkonserwatywnych, w dużej mierze nadal popierają program sprzed upadku Zjednoczonej Prawicy, a także zbrojny opór wobec europejskiej interwencji na Zachodzie."
+
+paternal_conservatism_national_conservatism_subtype_desc:0 "Zwolennicy konserwatywnej ideologii, którzy w dużej mierze byli odpowiedzialni za kryzys i rozpad państwa polskiego w latach 20., w większości zwracali się ku bardziej radykalnym częściom swojej idei. Ci nieliczni, którzy pozostali na stanowiskach chadeckich i socjalkonserwatywnych, w dużej mierze nadal popierają program sprzed upadku Zjednoczonej Prawicy, a także zbrojny opór wobec europejskiej interwencji na Zachodzie."
+
+paternal_conservatism_kaczynskism_subtype_desc:0 "Zwolennicy konserwatywnej ideologii, którzy w dużej mierze byli odpowiedzialni za kryzys i rozpad państwa polskiego w latach 20., w większości zwracali się ku bardziej radykalnym częściom swojej idei. Ci nieliczni, którzy pozostali na stanowiskach chadeckich i socjalkonserwatywnych, w dużej mierze nadal popierają program sprzed upadku Zjednoczonej Prawicy, a także zbrojny opór wobec europejskiej interwencji na Zachodzie."
+
+autocracy_national_oligarchy_subtype_desc:0 "Ci, którzy stracili wiarę w rządy ludu, zwrócili się ku temu, co im pozostało - rządy silnej ręki. Despotyczne rządy, zwykle pozbawione wszelkiej ideologii, polegają niemal wyłącznie na sile dyktatora i jego otoczenia – czy to resztkach armii, policji, czy bojowników zgromadzonych w kierunku charyzmatycznego przywódcy. Despoci lekceważą wolę ludu, zarówno w swoich granicach, jak i poza nimi, a wielu z nich całkowicie straciło swój kompas moralny w ogniu wojny."
+
+autocracy_military_junta_subtype_desc:0 "Ci, którzy stracili wiarę w rządy ludu, zwrócili się ku temu, co im pozostało - rządy silnej ręki. Despotyczne rządy, zwykle pozbawione wszelkiej ideologii, polegają niemal wyłącznie na sile dyktatora i jego otoczenia – czy to resztkach armii, policji, czy bojowników zgromadzonych w kierunku charyzmatycznego przywódcy. Despoci lekceważą wolę ludu, zarówno w swoich granicach, jak i poza nimi, a wielu z nich całkowicie straciło swój kompas moralny w ogniu wojny."
+
+autocracy_absolutism_subtype_desc:0 "Ci, którzy stracili wiarę w rządy ludu, zwrócili się ku temu, co im pozostało - rządy silnej ręki. Despotyczne rządy, zwykle pozbawione wszelkiej ideologii, polegają niemal wyłącznie na sile dyktatora i jego otoczenia – czy to resztkach armii, policji, czy bojowników zgromadzonych w kierunku charyzmatycznego przywódcy. Despoci lekceważą wolę ludu, zarówno w swoich granicach, jak i poza nimi, a wielu z nich całkowicie straciło swój kompas moralny w ogniu wojny."
+
+autocracy_kleptocratic_statism_subtype_desc:0 "Ci, którzy stracili wiarę w rządy ludu, zwrócili się ku temu, co im pozostało - rządy silnej ręki. Despotyczne rządy, zwykle pozbawione wszelkiej ideologii, polegają niemal wyłącznie na sile dyktatora i jego otoczenia – czy to resztkach armii, policji, czy bojowników zgromadzonych w kierunku charyzmatycznego przywódcy. Despoci lekceważą wolę ludu, zarówno w swoich granicach, jak i poza nimi, a wielu z nich całkowicie straciło swój kompas moralny w ogniu wojny."
+
+autocracy_theocracy_subtype_desc:0 "Ci, którzy stracili wiarę w rządy ludu, zwrócili się ku temu, co im pozostało - rządy silnej ręki. Despotyczne rządy, zwykle pozbawione wszelkiej ideologii, polegają niemal wyłącznie na sile dyktatora i jego otoczenia – czy to resztkach armii, policji, czy bojowników zgromadzonych w kierunku charyzmatycznego przywódcy. Despoci lekceważą wolę ludu, zarówno w swoich granicach, jak i poza nimi, a wielu z nich całkowicie straciło swój kompas moralny w ogniu wojny."
+
+neonationalism_populist_dictatorship_subtype_desc:0 "Ciężkie czasy to chwile upadku dla niektórych, ale chwile chwały dla innych. Narodowi radykałowie wiedzieli, jak wykorzystać ciężkie czasy, aby zdobyć chwałę. Domagając się silnego, jednolitego narodowo państwa polskiego, nacjonaliści nie zawahają się użyć wszystkich dostępnych środków, aby je odbudować - w razie potrzeby z ruin. Nacjonalistyczne kliki są zwykle rządzone przez charyzmatycznych przywódców, którzy utrzymują swoją władzę dzięki silnej wierze ideologicznej swoich bojowników."
+
+neonationalism_regional_nationalism_subtype_desc:0 "Ciężkie czasy to chwile upadku dla niektórych, ale chwile chwały dla innych. Narodowi radykałowie wiedzieli, jak wykorzystać ciężkie czasy, aby zdobyć chwałę. Domagając się silnego, jednolitego narodowo państwa polskiego, nacjonaliści nie zawahają się użyć wszystkich dostępnych środków, aby je odbudować - w razie potrzeby z ruin. Nacjonalistyczne kliki są zwykle rządzone przez charyzmatycznych przywódców, którzy utrzymują swoją władzę dzięki silnej wierze ideologicznej swoich bojowników."
+
+neonationalism_national_socialism_subtype_desc:0 "Ciężkie czasy to chwile upadku dla niektórych, ale chwile chwały dla innych. Narodowi radykałowie wiedzieli, jak wykorzystać ciężkie czasy, aby zdobyć chwałę. Domagając się silnego, jednolitego narodowo państwa polskiego, nacjonaliści nie zawahają się użyć wszystkich dostępnych środków, aby je odbudować - w razie potrzeby z ruin. Nacjonalistyczne kliki są zwykle rządzone przez charyzmatycznych przywódców, którzy utrzymują swoją władzę dzięki silnej wierze ideologicznej swoich bojowników."
+
+neonationalism_national_feminism_subtype_desc:0 "Ciężkie czasy to chwile upadku dla niektórych, ale chwile chwały dla innych. Narodowi radykałowie wiedzieli, jak wykorzystać ciężkie czasy, aby zdobyć chwałę. Domagając się silnego, jednolitego narodowo państwa polskiego, nacjonaliści nie zawahają się użyć wszystkich dostępnych środków, aby je odbudować - w razie potrzeby z ruin. Nacjonalistyczne kliki są zwykle rządzone przez charyzmatycznych przywódców, którzy utrzymują swoją władzę dzięki silnej wierze ideologicznej swoich bojowników."
+
+neonationalism_national_argarianism_subtype_desc:0 "Ciężkie czasy to chwile upadku dla niektórych, ale chwile chwały dla innych. Narodowi radykałowie wiedzieli, jak wykorzystać ciężkie czasy, aby zdobyć chwałę. Domagając się silnego, jednolitego narodowo państwa polskiego, nacjonaliści nie zawahają się użyć wszystkich dostępnych środków, aby je odbudować - w razie potrzeby z ruin. Nacjonalistyczne kliki są zwykle rządzone przez charyzmatycznych przywódców, którzy utrzymują swoją władzę dzięki silnej wierze ideologicznej swoich bojowników."
+
+neonationalism_national_bolshevism_subtype_desc:0 "Ciężkie czasy to chwile upadku dla niektórych, ale chwile chwały dla innych. Narodowi radykałowie wiedzieli, jak wykorzystać ciężkie czasy, aby zdobyć chwałę. Domagając się silnego, jednolitego narodowo państwa polskiego, nacjonaliści nie zawahają się użyć wszystkich dostępnych środków, aby je odbudować - w razie potrzeby z ruin. Nacjonalistyczne kliki są zwykle rządzone przez charyzmatycznych przywódców, którzy utrzymują swoją władzę dzięki silnej wierze ideologicznej swoich bojowników."
+
+neonationalism_national_catholicism_subtype_desc:0 "Ciężkie czasy to chwile upadku dla niektórych, ale chwile chwały dla innych. Narodowi radykałowie wiedzieli, jak wykorzystać ciężkie czasy, aby zdobyć chwałę. Domagając się silnego, jednolitego narodowo państwa polskiego, nacjonaliści nie zawahają się użyć wszystkich dostępnych środków, aby je odbudować - w razie potrzeby z ruin. Nacjonalistyczne kliki są zwykle rządzone przez charyzmatycznych przywódców, którzy utrzymują swoją władzę dzięki silnej wierze ideologicznej swoich bojowników."
+
+neonationalism_hooliganism_subtype_desc:0 "Ciężkie czasy to chwile upadku dla niektórych, ale chwile chwały dla innych. Narodowi radykałowie wiedzieli, jak wykorzystać ciężkie czasy, aby zdobyć chwałę. Domagając się silnego, jednolitego narodowo państwa polskiego, nacjonaliści nie zawahają się użyć wszystkich dostępnych środków, aby je odbudować - w razie potrzeby z ruin. Nacjonalistyczne kliki są zwykle rządzone przez charyzmatycznych przywódców, którzy utrzymują swoją władzę dzięki silnej wierze ideologicznej swoich bojowników."
+
+reactionary_traditional_monarchism_subtype_desc:0 "Nostalgia to potężna broń. Tęsknota za starymi dobrymi czasami sprawiła, że ludzie niejednokrotnie angażowali się w radykalne ideologie. Reakcjoniści w Polsce, wzywający do przywrócenia starego porządku, nie mają już na myśli stanu rzeczy sprzed kilkudziesięciu lat. Twierdzenia, że należy cofnąć się jeszcze dalej, wieki, a nawet do pierwotnych form reżimów, stają się coraz bardziej popularne. Nawet jeśli nie pochodzą z kultury polskiej czy zachodniej."
+
+reactionary_medievalism_subtype_desc:0 "Nostalgia to potężna broń. Tęsknota za starymi dobrymi czasami sprawiła, że ludzie niejednokrotnie angażowali się w radykalne ideologie. Reakcjoniści w Polsce, wzywający do przywrócenia starego porządku, nie mają już na myśli stanu rzeczy sprzed kilkudziesięciu lat. Twierdzenia, że należy cofnąć się jeszcze dalej, wieki, a nawet do pierwotnych form reżimów, stają się coraz bardziej popularne. Nawet jeśli nie pochodzą z kultury polskiej czy zachodniej."
+
+reactionary_sarmatism_subtype_desc:0 "Nostalgia to potężna broń. Tęsknota za starymi dobrymi czasami sprawiła, że ludzie niejednokrotnie angażowali się w radykalne ideologie. Reakcjoniści w Polsce, wzywający do przywrócenia starego porządku, nie mają już na myśli stanu rzeczy sprzed kilkudziesięciu lat. Twierdzenia, że należy cofnąć się jeszcze dalej, wieki, a nawet do pierwotnych form reżimów, stają się coraz bardziej popularne. Nawet jeśli nie pochodzą z kultury polskiej czy zachodniej."
+
+reactionary_sanation_subtype_desc:0 "Nostalgia to potężna broń. Tęsknota za starymi dobrymi czasami sprawiła, że ludzie niejednokrotnie angażowali się w radykalne ideologie. Reakcjoniści w Polsce, wzywający do przywrócenia starego porządku, nie mają już na myśli stanu rzeczy sprzed kilkudziesięciu lat. Twierdzenia, że należy cofnąć się jeszcze dalej, wieki, a nawet do pierwotnych form reżimów, stają się coraz bardziej popularne. Nawet jeśli nie pochodzą z kultury polskiej czy zachodniej."
+
+reactionary_paganism_subtype_desc:0 "Nostalgia to potężna broń. Tęsknota za starymi dobrymi czasami sprawiła, że ludzie niejednokrotnie angażowali się w radykalne ideologie. Reakcjoniści w Polsce, wzywający do przywrócenia starego porządku, nie mają już na myśli stanu rzeczy sprzed kilkudziesięciu lat. Twierdzenia, że należy cofnąć się jeszcze dalej, wieki, a nawet do pierwotnych form reżimów, stają się coraz bardziej popularne. Nawet jeśli nie pochodzą z kultury polskiej czy zachodniej."
+
+reactionary_radical_carbonism_subtype_desc:0 "Nostalgia to potężna broń. Tęsknota za starymi dobrymi czasami sprawiła, że ludzie niejednokrotnie angażowali się w radykalne ideologie. Reakcjoniści w Polsce, wzywający do przywrócenia starego porządku, nie mają już na myśli stanu rzeczy sprzed kilkudziesięciu lat. Twierdzenia, że należy cofnąć się jeszcze dalej, wieki, a nawet do pierwotnych form reżimów, stają się coraz bardziej popularne. Nawet jeśli nie pochodzą z kultury polskiej czy zachodniej."
+
+reactionary_militarism_subtype_desc:0 "Nostalgia to potężna broń. Tęsknota za starymi dobrymi czasami sprawiła, że ludzie niejednokrotnie angażowali się w radykalne ideologie. Reakcjoniści w Polsce, wzywający do przywrócenia starego porządku, nie mają już na myśli stanu rzeczy sprzed kilkudziesięciu lat. Twierdzenia, że należy cofnąć się jeszcze dalej, wieki, a nawet do pierwotnych form reżimów, stają się coraz bardziej popularne. Nawet jeśli nie pochodzą z kultury polskiej czy zachodniej."
+
+postpolonism_romuva_revivalism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_light_side_of_the_force_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_bloodmarketism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_nemesism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_astralism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_prepolonism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_redacted_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_messianism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_pol_potism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_the_undead_horde_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_dargon_cult_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_valkism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_rastarafianism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_sanitarism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_posthumanism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_postrussianism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_1984_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_inti_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+postpolonism_nihilism_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
+
+scout_system_subtype_desc:0 "Rozprzestrzeniająca się w XXI wieku wiara w upadek istniejących społeczeństw, połączona z faktycznym upadkiem wszystkiego, co niegdyś było Polską, zmienia niektórych ludzi, niektóre idee. Postpolonizm, to termin utworzony przez zagranicznych dziennikarzy na określenie jednego z ideologicznych ekscesów, które wyrosły z trupa dawnego państwa. Trudno jest zdefiniować prawdziwych „postpolonistów”, ale powszechnie uważa się, że jest to określenie na grupy żyjące w przekonaniu, że idea Polski jako państwa i Polaków jako narodu starcia podstawę do istnienia. Dlatego postpoloniści chcą nadać mu nową formę i nie cofną się przed żadnymi możliwościami przebudowy tej części świata na swój obraz i podobieństwo."
