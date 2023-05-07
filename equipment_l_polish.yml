@@ -9,7 +9,7 @@ l_polish:
  melee_equipment_2: "Purpose-Made Melee Weapons"
  melee_equipment_2_desc:0 "Tools and melee weapons designed in mind with urban and trench combat. Slightly reminiscent of WW1 trench weaponry."
  melee_equipment_3: "Army Melee Equipment"
- melee_equipment_3_desc:0 "Knives, shovels and other equipment that whould serve well in a modern army, with an additional renovated antique saber or shovel thrown in here and there among melee stormtroopers, just to make your ancestors extra proud."
+ melee_equipment_3_desc:0 "Knives, shovels and other equipment that would serve well in a modern army, with an additional renovated antique saber or shovel thrown in here and there among melee stormtroopers, just to make your ancestors extra proud."
  melee_equipment_4: "Top-Quality Melee Equipment"
  melee_equipment_4_desc:0 "Top notch modern military melee equipment that looks straight out of an American shop for knife enthusiasts. All multi-purpose, all cold to the touch, all black as death in colour (with cool white finishes near the edges)."
 #melee upgrady
@@ -81,21 +81,21 @@ l_polish:
 ######################################################wdzianka - dolna gałąź
  army_uniform1:0 "Semi-Standardized Camo-Pattern Clothes"
  army_uniform1_desc:0 "Anything covered in camo patterns, from hoodies and boxer shorts to old army and scout uniforms. Most of them don't fit, have holes in them and aren't actually designed for combat."
- camouflage_upgrade1:0 "Matching Sizes"
- camouflage_upgrade1_desc:0 "It's hard to run and shoot in uniforms and boots that are two sizes too small. We're better off sacrificing some extra time to find clothes that actually fit their wearer before handing them over to our soldiers. At least they'll no longer have the excuse that they can't march because their shoes are too tiny for their feet."
- army_uniform2:0 "Cold War-Era Uniforms & Combat Vests"
- army_uniform2desc:0 "Most of the camo patterns we've been using so far were based off of civilian, mil-themed products that aren't actually viable for camouflage. Instead, we should re-adapt old uniforms and combat vests that we're actually designed for combat and tested in practice."
- camouflage_upgrade2:0 "Newer Combat Vests"
- camouflage_upgrade2_desc:0 "While we still have to cling to outdated camouflage patterns, we can at least outfit our people with more modern protective equipment to ensure they'll get to see how new recruits get put into their uniform."
- army_uniform3:0 "Modern Uniforms w/ Advanced Combat Vests"
- army_uniform3_desc:0 "Modern army uniforms and combat vests, on par with those used by most second world countries' militaries."
+ camouflage_upgrade1:0 "Old Uniforms & Combat Vests"
+ camouflage_upgrade1_desc:0 "Most of the army clothes we've been using so far were just civilian or mil-themed products that aren't actually viable for camouflage. Instead, we should re-adapt old uniforms and combat vests that were actually designed for combat and tested in practice." 
+ army_uniform2:0 "Cold War-Era Camo Patterns"
+ army_uniform2_desc:0 "Slightly newer (but still very old - just not AS old) camos that the Polish army used back when Poland was still a thing."
+ camouflage_upgrade2:0 "Modern Uniforms & Combat Vests"
+ camouflage_upgrade2_desc:0 "Modern army uniforms and combat vests, on par with those used by most second world countries' militaries. Since this is Poland, they still use camo patterns that are outdated by at least 20 years - thanks to all the concrete-heads in our military."
+ army_uniform3:0 "Modern Camo Patterns"
+ army_uniform3_desc:0 "Now that we're *almost* a proper state, we can finally fix the single biggest mistake of the old Polish army: outdated camouflage patterns. \nOk, but seriously speaking: even Ukraine managed to quickly come up with something much more modern and appropiate for the situation when War in Donbass broke out in 2014, meanwhile we just sat on our arses and kept crying 'WAAAAH IT'S TOO EXPENSIVE FOR US TO DESIGN SOMETHING NEW WAAAAAAAAH NOOO WE CAN'T AFFORD TO PROPERLY OUTFIT OUR ARMY WAAAAAAAAAAAAAH'. \nLike... c'mon, it's time to finally do something with what our army wears in battle."
 ######################################################gi joe eq
  special_forces_equipment:0 "Special Forces Equipment"
  special_forces_equipment_desc:0 "Category of equipment used by troops that specialize in specific roles, such as mountaineers, paratroopers, marines or stormtroopers."
  special_forces_equipment_0:0 "Found Special Forces Equipment"
- special_forces_equipment_0_desc:0 "Various found parachutes. Hiking boots for mountaineers and fisherman coats for marines. Flares and found smoke and flash grenades to provide cover while storming the enemy and extra-shiny shoe polish for our elite troopers - things of mostly civilian origin that can be repurposed for specialized troopers focusing on combat in specific terrain types."
+ special_forces_equipment_0_desc:0 "Various found parachutes. Hiking boots for mountaineers and fisherman coats for marines. Flares and repurposed smoke machines to provide cover while performing operations - things of mostly civilian origin that can be repurposed for specialized troopers focusing on combat in specific terrain types."
  special_forces_equipment_1:0 "Purpose-Made Special Forces Equipment"
- special_forces_equipment_1_desc:0 "Purpose-made equipment designed specifically for our special forces, such as more durable, military parachutes, climbing equipment and vision-denying nades and devices."
+ special_forces_equipment_1_desc:0 "Purpose-made equipment designed specifically for our special forces, such as durable military parachutes, climbing equipment, ghillie suits or boats and pontoons for our marine corps."
  special_forces_equipment_2:0 "Advanced Special Forces Equipment"
  special_forces_equipment_2_desc:0 "Modern special forces equipment, allowing our special divisions to thrive in their habitat."
 ######################################################gi joe trening
@@ -137,7 +137,7 @@ l_polish:
  inf_antitank_upgrade2_short:0 "HEAT Missiles"
  inf_antitank_upgrade2_desc:0 "A staple of modern personal anti-tank weapons. Such missiles upon a hit create a stream of high-velocity metalic superplastic that is capable of penetrating even the biggest and strongest armors."
 ######################################################rowerki i motorki 
- bicycle_equipment: "Bicycle"
+ bicycle_equipment: "Bicycles"
  bicycle_equipment_desc: "Bicycles are common both in the cities and the countryside, don't need any additional training to use and can be easily produced and maintained. They're the natural choice of mobility vehicle for most warlord armies across Poland."
  bicycle_equipment_1: "Bicycle"
  bicycle_equipment_1_desc: "Bicycles are common both in the cities and the countryside, don't need any additional training to use and can be easily produced and maintained. They're the natural choice of mobility vehicle for most warlord armies across Poland."
@@ -148,7 +148,7 @@ l_polish:
  sidecar_equipment: "Sidecar"
  sidecar_equipment_desc: "Motorbikes with +1 seats."
 ######################################################armored cary
- armored_car_equipment:0 "Armored Car"
+ armored_car_equipment:0 "Armored Cars"
  armored_car_equipment_desc:0 "Category of bulletproofed transport vehicles used to move troops across."
  armored_car_equipment_1:0 "Makeshift Armored Car"
  armored_car_equipment_1_desc:0 "Civilian cars outfitted with enough metal sheet armor to block (sometimes (occasionally (if you're lucky))) a shot from a 9x19mm."
@@ -194,15 +194,14 @@ l_polish:
  nsb_car_armor_upgrade_2_desc:0 ""
 
 #apcki
- apc_equipment:0 "Armored Personnel Carrier"
+ apc_equipment:0 "Armored Personnel Carriers"
  apc_equipment_desc:0 "Category of vehicles consisting of various heavily armored vehicles used for transporting infantry. Technicals are also there."
- apc_equipment_short:0 "APC"
  apc_equipment_1: "Technical"
  apc_equipment_1_desc: "Elusive. Evasive. Persistent. Righteous traits for a rogue's vehicle. \n\nPickup trucks outfitted with mounted machine guns or heavier weaponry, serving as symbols of one's power and prestige in civil war scenarios. In battle they fill the niche of light cavalry. \n\nA certified warlord classic."
  apc_equipment_2: "Semi-Standardized Improvised APC"
  apc_equipment_2_desc: "Sizeable civilian delivery cars and microbuses that have been partially standardized, adapted to off-road conditions, covered in a layer of bulletproof armor and sandbags and equiped with one or two guns mounted at the windows or in makeshift gun turrets. Even the designers themselves don't know why this thing fucking works."
  apc_equipment_3: "Cold War-Era APC"
- apc_equipment_3_desc: "Bought or found and refurbished APCs from early-to-mid periods of the Cold War. Chaingun- and autocannon-armed beasts capable of burning through diesel fuel faster than an average African country. Models such as the LAV II family, Soviet BTR-70s or BTR-60s and their Polish-Czechoslovak version - the OT-64 SKOT."
+ apc_equipment_3_desc: "Bought or found and refurbished APCs from early-to-mid periods of the Cold War. Chaingun- and autocannon-armed beasts capable of burning through diesel fuel faster than the entire Chinese economy. Models such as the LAV II family, Soviet BTR-70s or BTR-60s and their Polish-Czechoslovak version - the OT-64 SKOT."
  apc_equipment_4: "Modern APC"
  apc_equipment_4_desc: "What did the '90s bring to us? The Internet, the fall of USSR and the Pegasus console. But that's off-topic; After the USSR fell, the Russians have finally realised that it's safer for infantry to dismount from their vehicles from the back, rather than from the side, so they've designed the BTR-80 and the BTR-90, both of which still have doors on the sides. In the meantime, the West started adding AT rocket systems and unmanned gun turrets to their APCs. \nCopied Rosomaks, Partia AMVs and other, foreign designs, like the BTR-90, Boxer, Saur 1s, FNSS Pars and other whatnot."
  nsb_apc_1:0 "Armament Upgrade"
@@ -241,7 +240,7 @@ l_polish:
  nsb_apc_engine_upgrade_desc:0 ""
 
 #ciężarówy
- motorized_equipment:0 "Truck"
+ motorized_equipment:0 "Trucks"
  motorized_equipment_desc:0 "Category encompassing vehicles used for delivering bread rolls, deli meats, etc. to our soldiers."
  motorized_equipment_1:1 "Civilian Transport Vehicles"
  motorized_equipment_1_desc:0 "Cars, delivery trucks, bicycles and motorbikes used by food delivery companies, buses, ruined and abandoned army trucks and any other found or stolen vehicles that can serve to transport arms, goods or troops to the frontlines. Or at least closer to the frontlines - you won't deliver supplies to an army in the middle of a forest using a bus."
@@ -297,10 +296,10 @@ l_polish:
  nsb_truck_engine_upgrade_desc:0 ""
 
 #ifvki
- ifv_equipment:0 "Infantry Fighting Vehicle"
- ifv_equipment_desc:0 "Category including various heavily armored vehicles designed to fight against foot infantry targets."
- ifv_chassis:0 "IFV Chassis"
- ifv_chassis_desc:0 "Category including various heavily armored vehicles designed to fight against foot infantry targets."
+ ifv_equipment:0 "Infantry Fighting Vehicles"
+ ifv_equipment_desc:0 "Category including various heavily armored vehicles designed to both fire upon enemies and to deploy infantry onto the battlefield."
+ ifv_chassis:0 "Infantry Fighting Vehicles"
+ ifv_chassis_desc:0 "Category including various heavily armored vehicles designed to both fire upon enemies and to deploy infantry onto the battlefield."
  ifv_equipment_1: "Improvized IFV"
  ifv_equipment_1_desc: "An infantry fighting vehicle (IFV), also known as a mechanized infantry combat vehicle (MICV), is a type of armoured fighting vehicle used to carry infantry into battle and provide direct-fire support. This, however, is not an IFV. It's an armored bulldozer with a couple of mounted machine guns."
  ifv_chassis_1:1 "Improvized IFV Chassis"
@@ -319,17 +318,17 @@ l_polish:
  ifv_chassis_4_desc:0 "Modern Bradley versions, BMP-3s, Pumas, Patria AMVs, VABs, VBMRs, etc. - IFVs that offer both a high level of protection, strong armament AND - get ready for this: high comfort of use. That's right - landing parties no longer have to sit inside hutched like gremlins, as these bad boys offer enough room to allow them to straighten up and sit comfortably, like how every proud soldier who still hasn't received their pay for the past 5 months of their service should."
 #
 #czołgi
- mbt_equipment:0 "Main Battle Tank"
+ mbt_equipment:0 "Tanks"
  mbt_equipment_desc:0 "Category of heavily armored tracked vehicles armed with...   Come on, you know what a tank is."
- mbt_chassis:0 "MBT Chassis"
+ mbt_chassis:0 "Tanks"
  mbt_chassis_desc:0 "Category of heavily armored tracked vehicles armed with...   Come on, you know what a tank is."
- mbt_equipment_0: "Primitive MBT"
+ mbt_equipment_0: "Primitive Tank"
  mbt_equipment_0_desc: "VERY primitive, blocky tank designs consisting of large civilian cars covered in large amounts of 'armor plates' (a.k.a. random, found metal plates). It's near impossible to turn, accelerate or position yourself properly with these things, but at least you can count on your enemies laughing themselves to death at the sight of these "monsters"."
- mbt_chassis_0:1 "Primitive MBT Chassis"
+ mbt_chassis_0:1 "Primitive Tank Chassis"
  mbt_chassis_0_desc:0 "VERY primitive, blocky tank designs consisting of large civilian cars covered in large amounts of 'armor plates' (a.k.a. random, found metal plates). It's near impossible to turn, accelerate or position yourself properly with these things, but at least you can count on your enemies laughing themselves to death at the sight of these "monsters"."
- mbt_equipment_1: "Killdozer & Improvised MBT"
+ mbt_equipment_1: "Killdozer & Improvised Tank"
  mbt_equipment_1_desc: "Various improvised tanks, ranging from large, tracked building vehicles covered in extreme amounts of homemade steel-and-concrete armor to smaller, rudimentary medium-weight tanks. Very simplistic and cumbersome, yet somewhat effective."
- mbt_chassis_1:1 "Killdozer & Improvised MBT Chassis"
+ mbt_chassis_1:1 "Improvised Tank Chassis"
  mbt_chassis_1_desc:0 "Various improvised tanks, ranging from large, tracked building vehicles covered in extreme amounts of homemade steel-and-concrete armor to smaller, rudimentary medium-weight tanks. Very simplistic and cumbersome, yet somewhat effective."
  mbt_equipment_2: "Classic MBT"
  mbt_equipment_2_desc: "Old, Soviet yee yee-ass battlefield-ghettomobiles that lack any parts that are too complicated, expensive or sophisticated not to be repaired with a hammer and a screwdriver. They're just tanks - that's it. \nNo reactive or composite armors, no thermovision, no fire-control systems - no nothing, it's just a tank. \n\nModels from the days of the T-54/T-55."
@@ -343,8 +342,9 @@ l_polish:
  mbt_equipment_4_desc: "Crème de la crème of main battle tanks. Foreign models outfitted with the most advanced and flashy gadgets that one could imagine. Not only do they provide their crews with the most protective armors and the most accurate fire-control and targeting systems, they also offer a ton of quality-of-life features that make driving these things an *actually comfortable* endeavor. Models like the Abrams, Leopard 2, Merkava, T-90MS and the Armata- oh wait they cancelled that one in the end."
  mbt_chassis_4:1 "Modern MBT Chassis"
  mbt_chassis_4_desc:0 "Crème de la crème of main battle tanks. Foreign models outfitted with the most advanced and flashy gadgets that one could imagine. Not only do they provide their crews with the most protective armors and the most accurate fire-control and targeting systems, they also offer a ton of quality-of-life features that make driving these things an *actually comfortable* endeavor. Models like the Abrams, Leopard 2, Merkava, T-90MS and the Armata- oh wait they cancelled that one in the end."
+
 #portable arta
- light_artillery_equipment:0 "Mortar"
+ light_artillery_equipment:0 "Mortars & Portable Artillery"
  light_artillery_equipment_desc:0 "Category of artillery covering various kinds of mortars and/or light artillery that's easily portable due to it's size and weight and/or ease of rapid reconstruction during a battle."
  light_artillery_equipment_0: "Heavy Slingshot"
  light_artillery_equipment_0_desc: "The most rudimentary way of lobbing nades and rocks at enemies."
@@ -356,10 +356,12 @@ l_polish:
  light_artillery_equipment_3_desc: "Though still makeshift, these mortars at least somewhat resemble actual ones, possesing a long barrel and mostly using bombs with fins as opposed to makeshift cannonballs and random heavy objects found nearby."
  light_artillery_equipment_4: "Cold War-Era & Modern Mortar"
  light_artillery_equipment_4_desc: "Mortars of the Cold War and the early 2000s, copied or bought from powers that still use them to this day, like the 2B11 or the LM-60 for example."
- #light_artillery_equipment_5: "Modern SPM & Mortar"
- #light_artillery_equipment_5_desc: "Early XXI century- and later Cold War mortars, supported by copies of modern and Cold War-era self-propelled mortars (such as Polish M120 Raks or Soviet Akatsiyas) that still see use in the armies of global great powers."
+
+ self_propelled_mortar_equipment:0 "Self-Propelled Mortars"
+ self_propelled_mortar_equipment_desc:0 "Self-propelled guns with high projectile arcs, used for safe, long-range indirect fire."
  self_propelled_mortar_equipment_1: "Modern SPM & Mortar"
  self_propelled_mortar_equipment_1_desc: "Early XXI century- and later Cold War mortars, supported by copies of modern and Cold War-era self-propelled mortars (such as Polish M120 Raks or Soviet Akatsiyas) that still see use in the armies of global great powers."
+
 #upgrady lekkiej arty
  light_artillery_upgrade1:0 "Close Fire Support"
  light_artillery_upgrade1_desc: "Fighting a war is a team effort. If we are to win, we need to ensure that all parts of the machine (as in - all sectors of our army) work in tandem with each other. An all-infantry army will have a hard time defending and pushing the frontline forward, and a mortar crews left by itself won't do too much. Ergo, we have to teach our infantry and artillerymen to synchronize and help each other out, so that they're able to successfully accomplish their goals in the battle."
@@ -367,8 +369,9 @@ l_polish:
  light_artillery_upgrade2_desc: "It takes a bit of practice to accurately fire at enemy positions without having a direct line of sight or having to find the right trajectory by trial and error. However, as our mortars become more and more accurate and convienient to use, we start to see the need of teaching our mortar crews the art of indirect fire, in order to fully utilise their weaponry and unleash their true potential."
  light_artillery_upgrade3:0 "Special Shell Types"
  light_artillery_upgrade3_desc: "Shrapnel shells, HE shells, phosphorus shells, anti-armor shells, guided and rocket-assisted shells too. \nBecause everyone is special, and deserves to go *boom* in their own, unique way."
+
 #ciężka arta
- heavy_artillery_equipment:0 "Howitzer"
+ heavy_artillery_equipment:0 "Heavy Artillery"
  heavy_artillery_equipment_desc:0 "Artillery category covering heavy, towed howitzers and guns."
  heavy_artillery_equipment_1: "Carbide Cannon"
  heavy_artillery_equipment_1_desc: "The funny hobo cannons from those videos on the internet."  
@@ -388,25 +391,24 @@ l_polish:
  heavy_artillery_upgrade3:0 "Cannon-Launched Guided Projectiles"
  heavy_artillery_upgrade3_short:0 "CLGPs"
  heavy_artillery_upgrade3_desc: "Cannon-launched guided projectiles, or CLGPs for short, are munitions that utilize geocoordinates-based systems to correct their trajectory in order to land closer to or directly onto the target. Unless you somehow fuck up aiming the short *twice*."
+
 #arta rakietowa
- #rocket_artillery_equipment:0 "Rocket Artillery"
- #rocket_artillery_equipment_desc:0 "Category of artillery using self-propelled rockets as projectiles."
- rocket_artillery_equipment:0 "Primitive Rocket Artillery"
- rocket_artillery_equipment_desc:0 "Makeshift rockets launched from simple stands or frames, operating on a similar basis to Qassam, Mysorean or Congreve rockets. While lacking in the accuracy department, they can deal suprisingly high damage to non-fireproof structures, charging enemies and their morale when launched in mass amounts simultaneously."
+ rocket_artillery_equipment:0 "Rocket Artillery"
+ rocket_artillery_equipment_desc:0 "Category of artillery using self-propelled rockets as projectiles."
+ rocket_artillery_equipment_1:0 "Primitive Rocket Artillery"
+ rocket_artillery_equipment_1_desc:0 "Makeshift rockets launched from simple stands or frames, operating on a similar basis to Qassam, Mysorean or Congreve rockets. While lacking in the accuracy department, they can deal suprisingly high damage to non-fireproof structures, charging enemies and their morale when launched in mass amounts simultaneously."
  rocket_artillery_equipment_2:0 "Primitive MRL"
  rocket_artillery_equipment_2_desc:0 "Simplistic multiple rocket launchers conducting rapid fire with multiple rockets or fire arrows at once, resembling more primitive versions of early WW2 rocket artillery platforms such as German Nebelwerfens or rocket launchers used by the Americans on LSM(R)-188-class warships, or medieval Chinese and Korean launchers, depending on the size of their projectiles."
- #rocket_artillery_equipment_3:0 "Technical w/ Improvised MLRS"
- #rocket_artillery_equipment_3_desc:0 "Technicals armed with simple multiple launch rocket systems that have been either bought from abroad or made from man-portable rocket launchers or recoiless guns slapped together."
- #rocket_artillery_equipment_4:0 "Cold War-Era MLRS"
- #rocket_artillery_equipment_4_desc:0 "Old, early-to-mid Cold War MLRSs - models that, while still deadly, lack the efficacy of modern rocket artillery. BM-14s, Grads, Katyushas and other relics of the Eastern Bloc (or somewhat rudimentary copies thereof) that still find use in third-world countries."
- #rocket_artillery_equipment_5:0 "Modern MLRS"
- #rocket_artillery_equipment_5_desc:0 "Modern, advanced multiple launch rocket systems that can provide either massed (Russian TOS-1s, Uragans and Smerchs, Polish WR-40 Langustas) or accurate fire (western systems, HIMARS being the prime examples) from far away."
+
+ motorized_rocket_equipment:0 "Motorized Rocket Artillery"
+ motorized_rocket_equipment_desc:0 "Rocket artillery installed onto trucks, with increased mobility and ability to turn cities into Passchendaele-like landscapes."
  motorized_rocket_equipment_1:0 "Technical w/ Improvised MLRS"
  motorized_rocket_equipment_1_desc:0 "Technicals armed with simple multiple launch rocket systems that have been either bought from abroad or made from man-portable rocket launchers or recoiless guns slapped together."
  motorized_rocket_equipment_2:0 "Cold War-Era MLRS"
  motorized_rocket_equipment_2_desc:0 "Old, early-to-mid Cold War MLRSs - models that, while still deadly, lack the efficacy of modern rocket artillery. BM-14s, Grads, Katyushas and other relics of the Eastern Bloc (or somewhat rudimentary copies thereof) that still find use in third-world countries."
  motorized_rocket_equipment_3:0 "Modern MLRS"
  motorized_rocket_equipment_3_desc:0 "Modern, advanced multiple launch rocket systems that can provide either massed (Russian TOS-1s, Uragans and Smerchs, Polish WR-40 Langustas) or accurate fire (western systems, HIMARS being the prime examples) from far away."
+
 #arta rakietowa upgrade'y
  rocket_artillery_upgrade1:0 "Increased Aerostability"
  rocket_artillery_upgrade1_desc:0 "It's understandable that a rocket consisting of a wooden stick with a fuel canister won't be accurate. It should, however, be able to fly in a nice, wide arc, instead of circling around in the air like a coked-up mosquito during *that* time of the month."
@@ -414,21 +416,22 @@ l_polish:
  rocket_artillery_upgrade2_desc:0 "In order to progress our rocket artillery, we need to abandon rudimentary, selfmade rockets and rocket launch systems, no matter how much cheaper it was and how easy it was to farm likes on the Internet by posting pictures of our makeshift, Mad Max-esque battle contraptions."
  rocket_artillery_upgrade3:0 "Advanced Unguided & Guided Missiles"
  rocket_artillery_upgrade3_desc:0 "GMLRS, ATACMS, PrSM - these names struck fear into Russian hearts during the terrible Ukraine conflict of 2022, in which they have more than proven themselves, allowing for more damaging strikes from further away than anything ex-Warsaw Pact has ever used, produced or even seen. With these bad boys in our arsenal, we will blot out the sun and burn the skies with rocket fuel and flying remains of what our enemies tried to send against us... \n\ntl;dr: foreign shit good"
+
 #AA
- anti_air_equipment:0 "Anti-Air Equipment"
+ anti_air_equipment:0 "AA Equipment"
  anti_air_equipment_desc:0 "Various types of weaponry used to battle enemy aircraft."
  anti_air_equipment_1: "Makeshift Anti-Air Gun"
  anti_air_equipment_1_desc: "Homemade guns of all sorts (rifles, machine guns, rocket launchers or autocannons, etc.) with enough range to hit things up in the sky. Given their rudimentary nature and lack of any real power, they main purpose is shooting pidgeons."
  anti_air_equipment_2:0 "Technical w/ Anti-Air Gun"
  anti_air_equipment_2_desc:0 "Random found or bought high-caliber, heavy machine guns and autocannons used to shoot down enemy planes marauding over allied heads. Any MG that can be mounted onto a makeshift weapon stand or a car and can damage a small, unarmored plane flying overhead - guns ranging from WW2-era Dushkas, M2 Brownings and ZPUs to whatever anti-air the Polish Army acquired from Moscow during the Cold War."
- #anti_air_equipment_3:0 "Cold War-Era SPAAG"
- #anti_air_equipment_3_desc:1 "Older self-propelled anti-aircraft guns that still find use in some poorer countries. Mostly ex-Warsaw Pact relics such as Shilkas, ZSUs or Czechoslovak M53/59 Praga."
- #anti_air_equipment_4:0 "Modern SPAAG"
- #anti_air_equipment_4_desc:0 "Combatworthy SPAAGs of the current age (well... *almost* current age), used by military powers of the world, like the Russian Tunguska, the American M163 VADS, the German Flakpanzer Gepard or the Polish ZSU-23 variant - 'Biała'."
+
+ spaa_equipment:0 "Self-Propelled AA"
+ spaa_equipment_desc:0 "Armored vehicles shooting at birds and planes."
  spaa_equipment_1:0 "Cold War-Era SPAAG"
  spaa_equipment_1_desc:1 "Older self-propelled anti-aircraft guns that still find use in some poorer countries. Mostly ex-Warsaw Pact relics such as Shilkas, ZSUs or Czechoslovak M53/59 Praga."
  spaa_equipment_2:0 "Modern SPAAG"
  spaa_equipment_2_desc:0 "Combatworthy SPAAGs of the current age (well... *almost* current age), used by military powers of the world, like the Russian Tunguska, the American M163 VADS, the German Flakpanzer Gepard or the Polish ZSU-23 variant - 'Biała'."
+
 #aaapgrejdy
  anti_air_upgrade:0 "Aiming Ahead Of Targets"
  anti_air_upgrade_desc:0 "If we have to resort to using machine guns against planes like its WW1, then we have to learn how to efficiently operate them - by teaching our AA gun operators how to accurately predict their bullets' trajectories and how the enemy planes will try to dodge their fire, we allow ourselves to rely on simple machine guns for defense against enemy air fleets, at least until they start to include actual war aircraft in them."
@@ -436,25 +439,27 @@ l_polish:
  anti_air_upgrade2_desc:0 "As we slowly start to phase out impromptu anti-air vehicles, we can already start buying and setting up proper AA guns on our battle trucks not only to upgrade our damage output, but also to be able to simply move them to proper armored vehicles."
  anti_air_upgrade3:0 "Ballistic Computers & Radars"
  anti_air_upgrade3_desc:0 "All these new AA guns are cool 'n' all, but they're missing something - modern tech integration. Ballistic computers, modern radars and such - systems that allow to detect enemy aircraft presence before it becomes physically noticeable (as in: before there's hundrets of bullets and like 20 rockets flying in the air towards us)."
+
 #SELF PROPELLEDY ŻYJĄ
- self_propelled_artillery:0 "Self-Propelled Gun"
- self_propelled_artillery_desc:0 "Category of artillery that moves on its own."
- self_propelled_artillery_chassis:0 "Self-Propelled Artillery Chassis"
- self_propelled_artillery_chassis_desc:0 "Vehicles carrying huge artillery guns."
- #self_propelled_artillery_equipment_1: "Makeshift SPG"
- #self_propelled_artillery_equipment_1_short: "'Poor Man's Technical'"
- #self_propelled_artillery_equipment_1_desc: "Cars with barrel cannons slapped on top of their roofs, nicknamed 'poor man's technicals' by the international community. \nAre they accurate? No? \nAre they highly damaging? No? \nAre they of absolutely any worth to us? Well... \n...at least they look funny..."
- motorized_artillery_equipment_1: "Makeshift SPG"
- motorized_artillery_equipment_1_short: "'Poor Man's Technical'"
- motorized_artillery_equipment_1_desc: "Cars with barrel cannons slapped on top of their roofs, nicknamed 'poor man's technicals' by the international community. \nAre they accurate? No? \nAre they highly damaging? No? \nAre they of absolutely any worth to us? Well... \n...at least they look funny..."
- #self_propelled_artillery_equipment_2: "Improvised SPG"
- #self_propelled_artillery_equipment_2_desc: "Basically - discount CAESARs: trucks armed with old artillery guns, that serve as heavy, yet mobile artillery. Despite their weight, they still have a tendency to flip sideways after a shot."
- motorized_artillery_equipment_2: "Improvised SPG"
+ motorized_artillery_equipment:0 "Motorized Artillery"
+ motorized_artillery_equipment_desc:0 "my guns go boom boom yo guns go *BRRRRWRRRRRWRWRWRRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR pow pow* (your gun's on a truck)"
+ motorized_artillery_equipment_1: "Makeshift SPG & Motorized Artillery"
+ motorized_artillery_equipment_1_short: "Poor Man's Technical"
+ motorized_artillery_equipment_1_desc: "Cars with barrel cannons slapped on top of their roofs, nicknamed 'poor man's technicals' by the international community. Very underpowered, insanely innacurate and incredibly idiotic."
+ motorized_artillery_equipment_2: "Technical w/ Artillery"
  motorized_artillery_equipment_2_desc: "Basically - discount CAESARs: trucks armed with old artillery guns, that serve as heavy, yet mobile artillery. Despite their weight, they still have a tendency to flip sideways after a shot."
+
+ self_propelled_artillery:0 "Self-Propelled Guns"
+ self_propelled_artillery_desc:0 "Category of artillery that moves on its own."
+ self_propelled_artillery_chassis:0 "Self-Propelled Guns" ###########################################to z chassis to tylko nazwa i nie da się tego edytować (pewnie kowboj coś tu odjebał)
+ self_propelled_artillery_chassis_desc:0 "Category of artillery that moves on its own." 
+ self_propelled_artillery_equipment:0 "Self-Propelled Guns"
+ self_propelled_artillery_equipment_desc:0 "my guns go boom boom yo guns go *BRRRRWRRRRRWRWRWRRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR pow pow* (you're using spgs)"
  self_propelled_artillery_equipment_3: "Cold War-Era SPG"
  self_propelled_artillery_equipment_3_desc: "Earlier self-propelled artillery designs that still serve well in both the developed and the bumfuck parts of the world, like the American M109s or Russian Gvozdikas, known in Poland as Goździki."
  self_propelled_artillery_equipment_4: "Modern SPG"
  self_propelled_artillery_equipment_4_desc: "Less early self-propelled artillery designs that serve the main powers of the world. Mainly imported Panzerhaubitze 2000s, M109s or AS-90s and copies of Krabs produced before 2027."
+
 #upgrady samobieżne
  self_propelled_artillery_upgrade:0 "Tuning"
  self_propelled_artillery_upgrade_desc:0 "Huh... Turns out cars with makeshift cannons slapped on top of them make for fast, but otherwise utterly and absolutely poor weapons. If we are to use cars as the chassis for our self-propelled artillery guns, then we have to prepare them for military use first, essentially turning them into lightly-armored armored cars with open turrets armed with lighter, less makeshift artillery pieces."
@@ -462,6 +467,7 @@ l_polish:
  self_propelled_artillery_upgrade1_desc:0 "We can improve the effectiveness of our artillery truck operators and prepare them for the day when they'll get to sit behind the wheel of an actual moving artillery piece by teaching them that real SPG combat is, sadly, not about performing daredevil drive-bys with a big, mounted fuck-off cannon."
  self_propelled_artillery_upgrade3:0 "The Krab's Legacy"
  self_propelled_artillery_upgrade3_desc:0 "Krabs have made many headlines in 2022, when they've helped the Ukrainian army drive the Russians back. Their success and the reputation they've earned amongst the Russian invaders has been a source of pride and hope for Poles interested in their own army, who saw that, perhaps, the Polish military still has some aces in their hand. \nOur army boys, longing for at least a small crumb of glory for Poland, hope to recreate the Krab's success. For our ancestors."
+
 #artillery coordination
  artillery_coordination:0 "Rudimentary Artillerymen Training"
  artillery_coordination_desc:0 "A very rudimentary 'training' consisting of a handful of tips for our artillerymen, such as 'DON'T SHOOT YOUR OWN FUCKING GUYS', or 'DON'T SHOOT TARGETS AT A POINT BLANK RANGE, YOU DINGUS'."
@@ -473,6 +479,8 @@ l_polish:
  artillery_coordination3_desc:0 "More advanced training for our artillery formations, which now will have an even easier time with moving positions safely and hitting targets accurately."
  artillery_coordination4:0 "Advanced Artillerymen Training III"
  artillery_coordination4_desc:0 "Tactics and techniques used by the most advanced and experienced armies' artillery formations. With this elite knowledge, our artillerymen will snipe targets across hundreds, if not thousands of meters with *perfect* accuracy."
+
+
 #ł00dki
  #kayak_equipment: "Kayak"
  #kayak_equipment_desc: "Found rowing dinghies, kayaks and inflatable pontoons (the same kind your dad used for fishing)."
@@ -528,35 +536,45 @@ l_polish:
  #heavy_monitor_hull_2_equipment_desc: "Monitor and ironclad designs resembling shallow draft warships used during the Secession War and the late XIXth and early XXth centuries."
  #heavy_monitor_hull_3_equipment: "Modern Corvette Hull"
  #heavy_monitor_hull_3_equipment_desc: "Corvettes that can both fight at sea and besiege riverside inland targets, imitating small warships of European navies such as the German Gepard-class or Braunschweig-class vessels."
+
 #pociungi
- train_equipment:0 "Train"
+ train_equipment:0 "Trains"
  train_equipment_desc:0 "Trains transport supplies from the Supply Capital to Supply Hubs connected by rail."
- train_equipment_1:0 "Draisine"
- train_equipment_1_desc:0 "Tiny rail vehicles, powered manually through pedaling or see-sawing."
- train_equipment_2:0 "Motorized Draisine"
- train_equipment_2_desc:0 "Draisines powered by a vehicle, ranging from tiny trains to nothing more than a simple surface with an engine and rail wheels attached to it."
- train_equipment_3:0 "Freight Train"
- train_equipment_3_desc:0 "Trains designed to move mass amounts of cargo across countries."
- train_equipment_4:0 "Older Trains"
- train_equipment_4_desc:0 "Old, shitty passenger trains, taken over by rust and smell of poor, sweaty passengers who had to endure standing in an overcrowded, hot train for 5 hours straight."
- train_equipment_5:0 "Modern Train"
+ train_equipment_1:0 "Found Old Trains"
+ train_equipment_1_desc:0 "Old, shitty trains, taken over by rust. The cargo ones are too dangerous to use due to lack of any upkeep, and the passenger ones straight up kill people with their stench of poor, sweaty passengers who had to endure standing in an overcrowded, hot tin can on wheels for 5 hours straight."
+ train_equipment_3:0 "Motorized Draisines & War Austerity Trains"
+ train_equipment_3_desc:0 "Rail engineer speeders repurposed as tiny transport trains and cheap, easily produced designs based off of them. They offer no protection and can be easily stopped or hijacked, but their miniscule production cost and time allows us to upkeep our supply channels through constant deployment of new trains."
+ train_equipment_2:0 "Reinforced Cargo Trains" 
+ train_equipment_2_desc:0 "Faster, more modern cargo trains with sandbags, armor plates, barbed wire and gun turrets slapped on top of them to protect whatever's inside from enemy ambushes and small-scale bombing attacks."
+ train_equipment_4:0 "Armored Military Trains" 
+ train_equipment_4_desc:0 "Mobile fortresses covered in concrete, steel and raw firepower that can safely traverse contested/hostile territories."
+
+ train_equipment_5:0 "Modern Train" #################################################################################################################################TEGO CHYBA NIE MA
  train_equipment_5_desc:0 "Modern, comfortable passenger trains adapted to the realities and standards of the XXI century."
- train_equipment_6:0 "Armoured Freight Train"
+ train_equipment_6:0 "Armoured Freight Train" ###########################################################################################################################TEGO CHYBA NIE MA
  train_equipment_6_desc:0 "Freight trains that have been covered in sandbags and thick layers of steel and concrete for protection."
- train_equipment_7:0 "Heavy Armored Train"
+ train_equipment_7:0 "Heavy Armored Train" ###########################################################################################################################TEGO CHYBA NIE MA
  train_equipment_7_desc:0 "Moving fortresses that can harass and dissuade enemy movements across regions."
+#działa pociungowe
  railway_gun_equipment:0 "Railway Artillery"
  railway_gun_desc:0 "Gigantic artillery pieces utilizing trains and railways for transport."
- railway_gun_equipment_1:0 "Railway Siege Mortar"
- railway_gun_equipment_1_desc:0 "Large artillery pieces (usually spare naval guns) utilizing railways for movement, conducting heavy bombardment from long ranges."
- railway_gun_equipment_2:0 "Heavy Railway Gun"
- railway_gun_equipment_2_desc:0 "'Hey Hans, how about we make a comically large cannon and put it on a train?' \n'Scheiße, Gunther, you're a genius!' \n\n\n\nAnd that's how the concept of a railway gun was born."
- 
+ railway_gun_equipment_1:0 "Railway Mortar"
+ railway_gun_equipment_1_desc:0 "Large, rail-bound artillery pieces raining hell down onto nearby enemy positions."
+ railway_gun_equipment_2:0 "Railway Gun"
+ railway_gun_equipment_2_desc:0 "Big fuck-off cannons with calibers starting at TWO FUCKING HUNDRED milimeters and going up to even 500mm. Some of 'em fire shells bigger than people. A single well-placed shot from these monsters could down entire apartment blocks."
+#tory to jes przyszłość
+ railways_good_tech_1:0 "Mass Reconnection of Old Railways"
+ railways_good_tech_1_desc:0 "The Fall rendered many rail connections dismantled, sabotaged or at the very least in state of complete disrepair - and PKP was already shit at maintaining them. We need to organize a mass railway reconnection programme if we are to utilize rail transport for our military."
+ railways_good_tech_2:0 "Safe Supply Chains"
+ railways_good_tech_2_desc:0 "No matter how good our connections between supply hubs are, our soldiers will stay hungry if their *wheeled* supply trains keep getting ambushed and harassed by enemy parties. We need to organize forces dedicated for protection of our supply caravans in order to more easily export goods onto the battlefield and import loot out of it. With our supply chains secured, we will much more easily expand their routes as well."
+ railways_good_tech_3:0 "Modern Railway Construction Solutions"
+ railways_good_tech_3_desc:0 "Modern, proper construction solutions, tools and materials that allow us to quickly create entire rail connections between large cities to secure loot and supply our troops."
+
 #czemu tu są pociski balistyczne kurwa
  guided_missile_equipment:0 "Short-Range Ballistic Missile"
  guided_missile_equipment_desc:0 "Ballistic missiles used to perform long-range attacks."
  guided_missile_equipment_1:0 "Found Short-Range Ballistic Missile"
- guided_missile_equipment_1_short:0"Found SRBM"
+ guided_missile_equipment_1_short:0 "Found SRBM"
  guided_missile_equipment_1_desc:0 "Old, leftover missiles found in abandones facilities of the Polish Armed Forces. While technologically they're comparable to most Cold War-era ballistic missiles, most of them lack fuel or have been already overgrown by moss and plants."
  guided_missile_equipment_2:0 "Found & Refurbished Short-Range Ballistic Missile"
  guided_missile_equipment_2_short: "Found & Refurbished SRBM"
@@ -588,6 +606,8 @@ l_polish:
  intercontinental_ballistic_missles_short:"Modern SRBM"
  intercontinental_ballistic_missles_desc:"The most advanced way to crash civilian buildings from hundreds of kilometers away."
 
+ convoy:0 "Convoys"
+ convoy_desc:0 "Convoys moving troops and goods across rivers and/or the Baltic."
 
 #tu już chyba tylko jest vanilla shit
  submarine:0 "Submarine"
@@ -607,8 +627,6 @@ l_polish:
  battleship_desc:0 "The largest capital ship with the biggest guns and strongest armor that money can buy. Such an expensive investment deserves proper support of smaller screening ships."
  battle_cruiser:0 "Battlecruiser"
  battle_cruiser_desc:0 "A large capital ship often with offensive abilities close to those of a battleship, but with weaker armor traded for a faster speed."
- convoy:0 "Convoy"
- convoy_desc:0 "Convoys used for international trade of goods and resources. Also used to ferry troops around and for performing naval invasions."
  sh_battleship:0 "Superheavy Battleship"
  sh_battleship_desc:0 "The largest capital ship with the biggest guns and strongest armor that money can buy. Such an expensive investment deserves proper support of smaller screening ships."
  light_airframe:0 "Light Airframe"
@@ -620,8 +638,7 @@ l_polish:
  jet_engines:0 "Jet Engines"
  JET_ENGINES_SPECIAL:0 "The development of Jet Engines is an essential prerequisite for the development of jet powered aircraft. This must be researched before you can research advanced aircraft"
  jet_engines_desc:0 "A breakthrough in propulsion technology, the Jet Engine will enable the development of an entirely new generation of aircraft."
- convoy_1:0 "Convoy"
- support_equipment_short:0 "Support Eq."
+ convoy_1:0 "Convoys"
  support_equipment:0 "Support Equipment"
  support_equipment_desc:0 "Radios, medkits, clothes, pontoons and other equipment used to make our troops' lives on the battlefield easier."
  support_equipment_1:0 "Support Equipment"
