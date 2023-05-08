@@ -17,7 +17,7 @@
  GetRegionyMapModes_Voi_Warmia_and_Masuria:0 "Warmia-Mazury"
  GetRegionyMapModes_Voi_Podlasie:0 "Podlasie"
  GetRegionyMapModes_Voi_Mazovia:0 "Północne Mazowsze"
- GetRegionyMapModes_Voi_Radom:0 "Radom"
+ GetRegionyMapModes_Voi_Radom:0 "Radomszczyzna"
  GetRegionyMapModes_Voi_Lubelskie:0 "Województwo Lubelskie"
  GetRegionyMapModes_Voi_Subcarpathia:0 "Podkarpacie"
  GetRegionyMapModes_Voi_Holy_Cross:0 "Województwo Świętokrzyskie"
@@ -40,8 +40,10 @@
  MAPMODE_PAF_REGIONS_MAP_MODE:0 "Tryb mapy §Hzjednoczenia regionów§!" 
  MAPMODE_PAF_REGIONS_MAP_MODE_NAME:0 "Zjednoczone regiony"
  MAPMODE_PAF_REGIONS_MAP_MODE_DESCRIPTION:0 "Pokazuje, które regiony należą do zjednoczonego regionu."
-
-
+ MAPMODE_PAF_POP_MAP_MODE:0 "Tryb mapy §Hregionu populacji§!"
+ MAPMODE_PAF_POP_MAP_MODE_NAME:0 "Region populacji"
+ MAPMODE_PAF_POP_MAP_MODE_DESCRIPTION:0 "Pokazuje ilość ludzi mieszkających w każdym regionie"
+ 
  PaF_admin_map_mode_tooltip:0 "[FROM.GetRegionyMapModes_adm]"
  GetRegionyMapModes_Voi_Upper_Silesia_admin:0 "Województwo Śląskie"
  GetRegionyMapModes_Voi_Lower_Silesia_admin:0 "Województwo Dolnośląskie"
