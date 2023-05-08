@@ -1,13 +1,13 @@
-﻿l_polish:
+l_polish:
 
 #KUHWA NASZE YO
 ##piechociarze
  melee_infantry:0 "Piechota do walki w zwarciu" #PIU ADDITION
  melee_infantry_desc:0 "Melee-oriented infantry serving as stormtroopers."
  militia:0 "Milicja"
- militia_desc:0 "Poorly equipped and trained formations that are no match for regular forces, but are still better than nothing."
+ militia_desc:0 "Meat for the meat grinder - poorly trained and equipped levies and militias that make up the bulk of Polish warlords' armies."
  infantry:0 "Piechota"
- infantry_desc:0 "Meat for the meat grinder."
+ infantry_desc:0 "Properly trained and equipped infantry."
  forest_infantry:0 "Leśna piechota" #PIU ADDITION
  forest_infantry_desc:0 "Piechota specjalizująca się w walce w lasach."
  mountaineers:0 "Piechota górska"
@@ -16,35 +16,33 @@
  paratrooper_desc:0 "Airborne infantry capable of making forced entries and quickly seizing key locations on the map."
  marine:0 "Piechota morska"
  marine_desc:0 "Troops specializing in amphibious warfare, supported by specialized landing craft and training."
- elite_infantry:0 "Elitarna piechota" #PIU ADDITION
- elite_infantry_desc:0 "Special forces. The best of the best. Much stronger and more organized than your typical infantry, but requiring a much higher upkeep."
 
  anti_tank_brigade:0 "Artyleria ppanc."
  anti_tank_brigade_desc:0 "Bataliony specjalizowały się w niszczeniu jednostek pancernych wroga."
 
 ##konnica & piździki
  bicycle_battalion:0 "Bataliony z rowerami"
- bicycle_battalion_desc:0 "Mięso armatnie, ale z dodatkiem metalu."
+ bicycle_battalion_desc:0 "Infantry that roams the earth by bike."
  motorbike_battalion:0 "Bataliony z motocyklami" #PIU ADDITION
  motorbike_battalion_desc:0 "Szybkie i elastyczne grupy żołnierzy piechoty walczących na motocyklach."
 
  cavalry:0 "Kawaleria"
  cavalry_desc:0 "Piechota na koniach. Jest droższa, ale bardziej mobilna."
  camelry:0 "Piechota z wielbłądami"
- camelry_desc:0 "Piechota na wielbłądach. Jest droższa, ale bardziej uniwersalna."
+ camelry_desc:0 "Camel-mounted infantry. Slower than cavalry, but more durable and MUCH more oriental!"
 
  armored_car:0 "Samochód pancerny"
  armored_car_desc:0 "Bulletproof cars fulfilling the role of light cavalry in battle."
  motorized:0 "Piechota zmotoryzowana"
- motorized_desc:0 "Pojazdy do transportu piechoty, np. ciężarówki i motocykle."
+ motorized_desc:0 "Infantry utilizing trucks for transportation."
  mechanized:0 "Piechota zmechanizowana"
- mechanized_desc:0 "Lekko opancerzone transportery piechoty."
+ mechanized_desc:0 "Troops utilizing armored, but very lightly armed vehicles that deploy infantry straight into the heat of action."
 
- light_armor:0 "Gun-armed Mech. Inf."
- light_armor_desc:0 "Armored vehicles, capable of both infantry transportation and providing large-caliber fire."
+ light_armor:0 "Armored Infantry"
+ light_armor_desc:0 "Heavy mechanized infantry outfitted with something more hard-hitting than small arms and light weapons. Unlike standard mechanized inf, it is capable of both transporting infantry AND directly engaging enemies."
 
- medium_armor:0 "Main Battle Tank"
- medium_armor_desc:0 "Main battle tanks. Evolved medium tanks, that possess both high damage resistance and high movement speed."
+ medium_armor:0 "Armored Cavalry"
+ medium_armor_desc:0 "Tanks, including both modern MBTs, older and lighter tanks as well as whatever makeshift contraptions the warlords are able to come up with."
 
 #arta
  artillery_brigade:0 "Artyleria moździerzowa"
@@ -54,52 +52,62 @@
 
  heavy_artillery_brigade:0 "Artyleria" #PIU ADDITION
  heavy_artillery_brigade_desc:0 "Guns."
+
+ mot_artillery_brigade:0 "Zmotoryzowana artyleria"
+ mot_artillery_brigade_desc:0 "Gun-armed technicals and/or trucks carrying or transporting large artillery pieces."
  self_propelled_artillery_brigade:0 "Mechanized Artillery"
- self_propelled_artillery_brigade_desc:0 "Armored vehicles armed with large artillery pieces. In other words: SPGs."
+ self_propelled_artillery_brigade_desc:0 "Armored vehicles armed with big fuck-off artillery guns."
 
  rocket_artillery_brigade:0 "Artyleria rakietowa"
- rocket_artillery_brigade_desc:0 "Artillery that utilizes rockets instead of standard projectiles."
- motorized_rocket_brigade:0 "Zmot. artyleria rakietowa"
- motorized_rocket_brigade_desc:0 "Samobieżna artyleria rakietowa może być wyposażona w kilka większych wyrzutni, które szybko zmieniają położenie po ostrzelaniu celu."
-
+ rocket_artillery_brigade_desc:0 "imagine the amount of rare high moments if these could shoot crockets"
+ motorized_rocket_brigade:0 "Zmotoryzowana artyleria rakietowa"
+ motorized_rocket_brigade_desc:0 "Rocket artillery systems transported with trucks or mounted onto them."
+  
  anti_air_brigade:0 "Artyleria plot."
- anti_air_brigade_desc:0 "Bataliony obrony powietrznej i systemy uzbrojenia."
- #technicale z aa "Motorized Anti-Air"
- #technicale z aa "Air defense weapons carried by trucks."
- mechanized_anti_air_brigade:0 "Mechanized Anti-Air"
+ anti_air_brigade_desc:0 "Frontline units denying enemy activity in the air."
+ #technicale z aa "Motorized Anti-Air" #######################nie ma rozróżnienia w grze na motorizedy i zwykłe aa - w domyśle i tak są wożone na przyczepkach/ciężarówach etc.
+ #technicale z aa "Air defense weapons carried by trucks." ###nie ma rozróżnienia w grze na motorizedy i zwykłe aa - w domyśle i tak są wożone na przyczepkach/ciężarówach etc.
+ mechanized_anti_air_brigade:0 "Zmechanizowany system przeciwlotniczy"
  mechanized_anti_air_brigade_desc:0 "SPAAGs - wheeled and tracked vehicles armed using anti-air weaponry as their main armament."
+ 
+###APPARENTLY TO JEST W GRZE
+ mot_rocket_artillery_brigade:0 "Truck-drawn Rocket Artillery"
+ mot_anti_tank_brigade:0 "Motorized Anti-Tank"
+ mot_anti_tank_brigade_desc:0 "Motorized Anti-Tank"
+ mot_anti_air_brigade:0 "Motorized Anti-Air"
 
-#supporty walczące
- anti_tank:0 "Wsparcie ppanc."
- anti_tank_desc:0 "Anti-tank support companies, aiding the main units in battle."
-
- artillery:0 "Support Mortar Art."
- artillery_desc:0 "Mortars providing supporting close-range indirect fire."
- heavy_artillery:0 "Support Artillery" #PIU ADDITION
- heavy_artillery_desc:0 "Artillery companies providing supporting fire for the rest of the units."
- rocket_artillery:0 "Support Rocket Art."
- rocket_artillery_desc:0 "Smaller rocket artillery units providing support to the main troops of the army."
-
+ 
+ #supporty walczące
+ anti_tank:0 "Artyleria ppanc."
+ anti_tank_desc:0 "Support companies that aid frontline troops during encounters with armor."
+ artillery:0 "Artyleria moździeż."
+ artillery_desc:0 "Mortar troops supporting their units with close-range indirect fire."
+ heavy_artillery:0 "Wsparcie artylerii" #PIU ADDITION
+ heavy_artillery_desc:0 "Artillery support for frontline troops."
+ rocket_artillery:0 "Wsparcie artylerii rakietowej"
+ rocket_artillery_desc:0 "Rocket artillery bombing the shit out of the frontline."
  anti_air:0 "Wsparcie plot."
- anti_air_desc:0 "Anti-air support deployed on the battlefield, closer to the main lines than stationary AA defenses."
+ anti_air_desc:0 "Anti-air measures for frontline troops."
 
 #supporty wsparciowe
  engineer:0 "Saperzy"
  engineer_desc:0 "Budowa umocnień i usuwanie przeszkód to kluczowe zadania wojsk inżynieryjnych. Modernizacja wyposażenia naszych saperów dodatkowo zwiększy ich przydatność na polu walki."
- light_flame_tank:0 "Light Flame Tank Company"
- light_flame_tank_desc:0 "A company of light, flamethrower-equipped vehicles to provide support in assaulting cities and fortifications."
- medium_flame_tank:0 "Medium Flame Tank Company"
- medium_flame_tank_desc:0 "A company of medium tanks equipped with flamethrowers to provide support in assaulting cities and fortifications."
 
- recon:1 "Oddział zwiadu kawalerii"
- recon_desc:0 "Małe oddziały zwiadowcze poruszające się przed głównymi siłami pozwalają nam rozpoznać pozycję i liczebność nieprzyjaciela."
- mot_recon:0 "Zmotoryzowana kompania zwiadu"
- mot_recon_desc:0 "Kompanie zwiadu używają lekkich ciężarówek i motocykli, żeby bardziej wyprzedzać główne siły i chronić flanki."
- armored_car_recon:0 "Kompania lekkich pojazdów opancerzonych zwiadu"
- armored_car_recon_desc:0 "Kompania zwiadu wyposażona w samochody pancerne może atakować wroga i uniemożliwiać jego zwiadowcom zdobycie cennych informacji."
- light_tank_recon:0 "Kompania pojazdów opancerzonych zwiadu"
+ recon:1 "Cavalry Recon Company"
+ recon_desc:0 "Cavalry groups sent to scout the battlefield ahead before moving in the main force."
+ bicycle_recon:0 "Bicycle Recon Company"
+ bicycle_recon_desc:0 "Bicycle infantry detachment that roams in the forward areas, scouting ahead and preparing the main units for what's to come."
+ motorbike_recon:0 "Motorbike Recon Company"
+ motorbike_recon_desc:0 "Motorcycles that scout ahead of the army."
+ mot_recon:0 "Motorized Recon Company"
+ mot_recon_desc:0 "Recon companies utilizing light trucks to range further ahead and cover more ground to protect the flanks."
+ armored_car_recon:0 "Armored Car Recon Company"
+ armored_car_recon_desc:0 "Recon companies that utilize armored cars during missions. It can take the fight to the enemy and prevent enemy scouts from gaining any valuable information."
+ light_tank_recon:0 "Armored Recon Company"
  light_tank_recon_desc:0 "Armored vehicles used in a recon role."
-
+ uav_recon:0 "UAV Recon Company"
+ uav_recon_desc:0 "Dedicated drone operators providing friendlies with a direct view of what's happening in the field."
+ 
  military_police:0 "Żandarmeria"
  military_police_desc:0 "Żołnierze utrzymujący porządek i zwalczający ruch oporu na zajętych terenach."
  maintenance_company:0 "Kompania techniczna"
@@ -110,8 +118,8 @@
  logistics_company_desc:0 "Handles planning, requesting and distributing resources for the division."
  signal_company:0 "Kompania sygnalizacyjna"
  signal_company_desc:0 "Responsible for local communications working in the division."
-
-
+ 
+ 
  category_ranged_infantry:0 "Piechota dystansowa"
  category_ranged_infantry_desc:0 "Infantrymen using actual weapons instead of pointy sticks."
 
@@ -395,13 +403,7 @@
 
 
 
- mot_rocket_artillery_brigade:0 "Artyleria rakietowa holowana przez ciężarówki"
- rocket_artillery_brigade_desc:0 ""
- mot_anti_tank_brigade:0 "Zmotoryzowana ppanc."
-
- mot_anti_air_brigade:0 "Zmotoryzowana plot."
- anti_air_brigade_desc:0 ""
-
+ 
  light_tank_destroyer_brigade:0 "Lekki niszczyciel czołgów"
  light_tank_destroyer_brigade_desc:0 "Niszczyciele czołgów to pozbawione wieży maszyny uzbrojone w potężne działa zainstalowane bezpośrednio w kadłubie. Lekkie niszczyciele powstają w oparciu o podwozia czołgów lekkich, dzięki czemu są dosyć szybkie, ale nie mają takiej siły ognia jak większe pojazdy."
  medium_tank_destroyer_brigade:0 "Średni niszczyciel czołgów"
@@ -429,11 +431,9 @@
  modern_armor:0 "Nowoczesne czołgi"
  modern_armor_desc:0 "Maszyny te sprawdzą się w większości sytuacji. Dzięki potężnemu uzbrojeniu i pochyłemu pancerzowi są praktyczniejsze niż wyspecjalizowane jednostki."
 
- mot_artillery_brigade:0 "Artyleria zmotoryzowana"
- mot_artillery_brigade_desc:0 "Gun-armed technicals and/or trucks carrying or transporting large artillery pieces."
-
+ 
  penal_battalion:0 "Batalion karny"
- penal_battalion_desc:0 "Najlepsze mięso do przemielenia na froncie."
+ penal_battalion_desc:0 "The ultimate meat for the meat grinder."
 
  amphibious_armor:0 "Batalion czołgów pływających"
  amphibious_mechanized:0 "Batalion amtrac"
@@ -543,8 +543,6 @@
  NAVAL_INVASION_OVER_CAP:1 "§RPrzekroczono limit wielkości desantu morskiego:§!\nWykorzystane: $USED|Y$\nLimit całkowity: $MAX|Y$\nWybrane dywizje: $SELECTION|R$.\nOpracuj więcej £tech_mod technologii transportu, żeby zwiększyć limit wielkości desantu morskiego."
  MODIFIER_NAVAL_INVASION_CAPACITY:0 "Limit wielkości desantu morskiego"
  MODIFIER_NAVAL_INVASION_CAPACITY_DESC:0 "Całkowita liczba dywizji, które można mu przydzielić do rozkazu desantu morskiego."
- motorized_rocket_brigade:0 "Zmot. artyleria rakietowa"
- motorized_rocket_brigade_desc:0 "Samobieżna artyleria rakietowa może być wyposażona w kilka większych wyrzutni, które szybko zmieniają położenie po ostrzelaniu celu."
  NAVAL_SUPREMACY:0 "§HNaval Supremacy:§! $VALUE|%H$"
  NAVAL_REGION_ACCESS_LEVEL:0 "Poziom dostępu: $LVL$"
  NAVAL_REGION_ACCESS_ALLOWED:0 "§GDostępny§!"
