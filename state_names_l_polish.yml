@@ -3718,7 +3718,7 @@ l_polish:
  STATE_404_UKROS: "Ozimek"
  STATE_404_USP: "Winters"
  
- STATE_405: "Karlowe Wary" 
+ STATE_405: "Karlove Vary" 
  STATE_405_CAL: "Karlove Vary"
  STATE_405_CZE: "Karlove Vary"
  STATE_405_GER: "Karlsbad"
@@ -4079,7 +4079,7 @@ l_polish:
  STATE_443_UKROS: "Busko-Zdroy"
  STATE_443_USP: "Bus Rapids"
  
- STATE_444: "Czechy"
+ STATE_444: "Čechy"
  STATE_444_CAL: "Bohemia"
  STATE_444_CZE: "Bohemia"
  STATE_444_GER: "Böhmen"
@@ -4209,7 +4209,7 @@ l_polish:
  STATE_457_UKROS: "Lyubachiv"
  STATE_457_USP: "Likeborough"
  
- STATE_458: "Śląsk Czeski"
+ STATE_458: "České Slezsko"
  STATE_458_CAL: "Czech Silesia"
  STATE_458_CZE: "Czech Silesia"
  STATE_458_GER: "Sudetenschlesien"
@@ -4245,7 +4245,7 @@ l_polish:
  STATE_461_UKROS: "Lezhaysk"
  STATE_461_USP: "Lyington"
  
- STATE_462: "Północne Morawy"
+ STATE_462: "Severní Morava"
  STATE_462_CAL: "North Moravia"
  STATE_462_CZE: "North Moravia"
  STATE_462_GER: "Nordmähren"
