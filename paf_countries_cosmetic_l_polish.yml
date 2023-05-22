@@ -1,7 +1,4 @@
-﻿l_polish:
-
-
-
+l_polish:
 
 ###LEGION HONORU###
  WOD_voivodeship_neonationalism:0 "Śląski Obóz Narodowy"
@@ -49,13 +46,13 @@
  FER_regional_neonationalism_DEF:0 "Śląski Kraj"
  FER_regional_neonationalism_ADJ:0 "Ślōnski Krŏj"
  
- TRC_voivodeship_paternal_conservatism:0 "Śląski Związek Piłki Nożne"
+ TRC_voivodeship_paternal_conservatism:0 "Śląski Związek Piłki Nożnej"
  TRC_voivodeship_paternal_conservatism_DEF:0 "Śląski Związek Piłki Nożnej"
- TRC_voivodeship_paternal_conservatism_ADJ:0 "Śląski Związek Piłki Nożne"
+ TRC_voivodeship_paternal_conservatism_ADJ:0 "Śląski Związek Piłki Nożnej"
  
- TRC_regional_paternal_conservatism:0 "Śląski Związek Piłki Nożne"
+ TRC_regional_paternal_conservatism:0 "Śląski Związek Piłki Nożnej"
  TRC_regional_paternal_conservatism_DEF:0 "Śląski Związek Piłki Nożnej"
- TRC_regional_paternal_conservatism_ADJ:0 "Śląski Związek Piłki Nożne" 
+ TRC_regional_paternal_conservatism_ADJ:0 "Śląski Związek Piłki Nożnej" 
  
  ASG_voivodeship_neonationalism:0 "Airsoftowe Państwo Najemników"
  ASG_voivodeship_neonationalism_DEF:0 "Airsoftowe Państwo Najemników"
@@ -87,7 +84,7 @@
  TRN_regional_euroliberalism_ADJ:0 "Rzeczpospolita Małopolska"
  TRN_regional_autocracy:0 "Galicia Governate"
  TRN_regional_autocracy_DEF:0 "Galicyjskie Gubernatorstwo"
- TRN_regional_autocracy_ADJ:0 "Galicyjskie Gubernatorstwo" 
+ TRN_regional_autocracy_ADJ:0 "Galicia Governate" 
  TRN_regional_neonationalism:0 "Galicyjskie Państwo Agrarne"
  TRN_regional_neonationalism_DEF:0 "Galicyjskie Państwo Agrarne"
  TRN_regional_neonationalism_ADJ:0 "Galicyjskie Państwo Agrarne" 
@@ -331,9 +328,9 @@
  JAW_voivodeship_squattism:0 "Terytorium Zagłębia"
  JAW_voivodeship_squattism_DEF:0 "Terytorium Zagłębia"
  JAW_voivodeship_squattism_ADJ:0 "Terytorium Zagłębia"
- JAW_voivodeship_socialdemocrature:0 "Commune of Zagłębie"
+ JAW_voivodeship_socialdemocrature:0 "Komuna Zagłębia"
  JAW_voivodeship_socialdemocrature_DEF:0 "Komuna Zagłębia"
- JAW_voivodeship_socialdemocrature_ADJ:0 "Commune of Zagłębie" 
+ JAW_voivodeship_socialdemocrature_ADJ:0 "Komuna Zagłębia" 
  
  JAW_regional_squattism:0 "Terytorium Zagłębia"
  JAW_regional_squattism_DEF:0 "Terytorium Zagłębia"
@@ -387,21 +384,21 @@
  SOS_wcz_good_final_socialdemocrature_ADJ:0 "Socjalistyczna Rzeczpospolita Polska" 
 
 ###BYTOM###
- RAS_voivodeship_reactionary:0 "Herzogtum Schlesien"
+ RAS_voivodeship_reactionary:0 "Księstwo Śląskie"
  RAS_voivodeship_reactionary_DEF:0 "Herzogtum Schlesien"
- RAS_voivodeship_reactionary_ADJ:0 "Herzogtum Schlesien"
+ RAS_voivodeship_reactionary_ADJ:0 "Księstwo Śląskie"
  
- RAS_regional_reactionary:0 "Herzogtum Schlesien"
+ RAS_regional_reactionary:0 "Księstwo Śląskie"
  RAS_regional_reactionary_DEF:0 "Herzogtum Schlesien"
- RAS_regional_reactionary_ADJ:0 "Herzogtum Schlesien"
+ RAS_regional_reactionary_ADJ:0 "Księstwo Śląskie"
  
- RAS_supregional_reactionary:0 "Königreich Schlesien"
+ RAS_supregional_reactionary:0 "Królestwo Śląska"
  RAS_supregional_reactionary_DEF:0 "Königreich Schlesien"
- RAS_supregional_reactionary_ADJ:0 "Königreich Schlesien"
+ RAS_supregional_reactionary_ADJ:0 "Królestwo Śląska"
  
- RAS_final_reactionary:0 "Königreich Schlesien"
+ RAS_final_reactionary:0 "Królestwo Śląska"
  RAS_final_reactionary_DEF:0 "Königreich Schlesien"
- RAS_final_reactionary_ADJ:0 "Königreich Schlesien" 
+ RAS_final_reactionary_ADJ:0 "Królestwo Śląska" 
  
 
 ###CHORZÓW###
@@ -848,10 +845,10 @@
  
  SAP_insane_final_autocracy:0 "Północne Imperium"
  SAP_insane_final_autocracy_DEF:0 "Północne Imperium"
- SAP_insane_final_autocracy_ADJ:0 "Northern Empire"
+ SAP_insane_final_autocracy_ADJ:0 "Północne Imperium"
  SAP_sane_final_autocracy:0 "Zjednoczone Królestwa Północy"
  SAP_sane_final_autocracy_DEF:0 "Zjednoczone Królestwa Północy"
- SAP_sane_final_autocracy_ADJ:0 "United Northern Realms"
+ SAP_sane_final_autocracy_ADJ:0 "Zjednoczone Królestwa Północy"
  SAP_carlistas_final_reactionary:0 "Legitymistyczne Królestwo Polski"
  SAP_carlistas_final_reactionary_DEF:0 "Legitymistyczne Królestwo Polski"
  SAP_carlistas_final_reactionary_ADJ:0 "Legitymistyczne Królestwo Polski" 
@@ -1187,9 +1184,9 @@
  JOM_supregional_squattism_DEF:0 "Ludowa Republika Kraju Wendów"
  JOM_supregional_squattism_ADJ:0 "Folkerepublikken Vendland"
  
- JOM_zawisza_final_socialdemocrature:0 "Republic of Wendia"
+ JOM_zawisza_final_socialdemocrature:0 "Rzeczpospolita Wendyjska"
  JOM_zawisza_final_socialdemocrature_DEF:0 "Rzeczpospolita Wendyjska"
- JOM_zawisza_final_socialdemocrature_ADJ:0 "Republic of Wendia" 
+ JOM_zawisza_final_socialdemocrature_ADJ:0 "Rzeczpospolita Wendyjska" 
  
  JOM_halfdan_final_squattism:0 "Folkerepublikken Vendland"
  JOM_halfdan_final_squattism_DEF:0 "Ludowa Republika Wendyjska"
@@ -1370,6 +1367,37 @@
  WAN_wandale_final_reactionary_DEF:0 "Imperium Wendów"
  WAN_wandale_final_reactionary_ADJ:0 "Imperium Wendów"  
  
+ #CALISIA
+ 
+ CAL_voivodeship_autocracy:0 "Imperium Kaliskie"
+ CAL_voivodeship_autocracy_DEF:0 "Imperium Kaliskie"
+ CAL_voivodeship_autocracy_ADJ:0 "Imperium Kaliskie"
+ CAL_voivodeship_socialdemocrature:0 "Imperium Kaliskie"
+ CAL_voivodeship_socialdemocrature_DEF:0 "Imperium Kaliskie"
+ CAL_voivodeship_socialdemocrature_ADJ:0 "Imperium Kaliskie"
+ 
+ CAL_regional_autocracy:0 "Imperium Kaliskie"
+ CAL_regional_autocracy_DEF:0 "Imperium Kaliskie"
+ CAL_regional_autocracy_ADJ:0 "Imperium Kaliskie"
+ CAL_regional_socialdemocrature:0 "Imperium Kaliskie"
+ CAL_regional_socialdemocrature_DEF:0 "Imperium Kaliskie"
+ CAL_regional_socialdemocrature_ADJ:0 "Imperium Kaliskie"
+ 
+ CAL_supregional_autocracy:0 "Imperium Kaliskie"
+ CAL_supregional_autocracy_DEF:0 "Imperium Kaliskie"
+ CAL_supregional_autocracy_ADJ:0 "Imperium Kaliskie"
+ CAL_supregional_socialdemocrature:0 "Imperium Kaliskie"
+ CAL_supregional_socialdemocrature_DEF:0 "Imperium Kaliskie"
+ CAL_supregional_socialdemocrature_ADJ:0 "Imperium Kaliskie"
+ 
+ CAL_final_autocracy:0 "Imperium Kaliskie"
+ CAL_final_autocracy_DEF:0 "Imperium Kaliskie"
+ CAL_final_autocracy_ADJ:0 "Imperium Kaliskie"
+ CAL_final_socialdemocrature:0 "Imperium Kaliskie"
+ CAL_final_socialdemocrature_DEF:0 "Imperium Kaliskie"
+ CAL_final_socialdemocrature_ADJ:0 "Imperium Kaliskie"
+ 
+ 
  
 #GNIEZNO
  
@@ -1410,9 +1438,34 @@
  FEL_supregional_reactionary_DEF:0 "Terra Felix"
  FEL_supregional_reactionary_ADJ:0 "Terra Felix"
 
- FEL_final_reactionary:0 "Commonwealth of Sarmatia"
+ FEL_final_reactionary:0 "Rzeczpospolita Sarmacka"
  FEL_final_reactionary_DEF:0 "Rzeczpospolita Sarmacka"
- FEL_final_reactionary_ADJ:0 "Commonwealth of Sarmatia" 
+ FEL_final_reactionary_ADJ:0 "Rzeczpospolita Sarmacka" 
+ 
+ 
+  #SUSKI
+ 
+ SUS_voivodeship_autocracy:0 "Kryzysowa Komisja Wielkopolski"
+ SUS_voivodeship_autocracy_DEF:0 "Kryzysowa Komisja Wielkopolski"
+ SUS_voivodeship_autocracy_ADJ:0 "Kryzysowa Komisja Wielkopolski"
+ 
+ SUS_regional_autocracy:0 "Kryzysowa Komisja Polski"
+ SUS_regional_autocracy_DEF:0 "Kryzysowa Komisja Polski"
+ SUS_regional_autocracy_ADJ:0 "Kryzysowa Komisja Polski"
+ 
+ SUS_supregional_autocracy:0 "Kryzysowa Komisja Polski"
+ SUS_supregional_autocracy_DEF:0 "Kryzysowa Komisja Polski"
+ SUS_supregional_autocracy_ADJ:0 "Kryzysowa Komisja Polski"
+ SUS_supregional_paternal_conservatism:0 "Kryzysowa Komisja Polski"
+ SUS_supregional_paternal_conservatism_DEF:0 "Kryzysowa Komisja Polski"
+ SUS_supregional_paternal_conservatism_ADJ:0 "Kryzysowa Komisja Polski"
+ 
+ SUS_final_autocracy:0 "Rzeczpospolita Polska"
+ SUS_final_autocracy_DEF:0 "Rzeczpospolita Polska"
+ SUS_final_autocracy_ADJ:0 "Rzeczpospolita Polska"
+ SUS_final_paternal_conservatism:0 "Rzeczpospolita Polska"
+ SUS_final_paternal_conservatism_DEF:0 "Rzeczpospolita Polska"
+ SUS_final_paternal_conservatism_ADJ:0 "Rzeczpospolita Polska"
  
  
  #POZNAŃ
@@ -1585,4 +1638,75 @@
  TOR_memcen_final_freemarketism_ADJ:0 "Polski Konglomerat" 
 
  
+###ŻAGAŃ###
+ ZAG_voivodeship_autocracy:0 "11 Dywizja Kawalerii Pancernej"
+ ZAG_voivodeship_autocracy_DEF:0 "11 Dywizja Kawalerii Pancernej"
+ ZAG_voivodeship_autocracy_ADJ:0 "11 Dywizja Kawalerii Pancernej"
+ 
+ ZAG_regional_autocracy:0 "Śląski Okręg Wojskowy"
+ ZAG_regional_autocracy_DEF:0 "Śląski Okręg Wojskowy"
+ ZAG_regional_autocracy_ADJ:0 "Śląski Okręg Wojskowy"
+ 
+ ZAG_supregional_autocracy:0 "Śląski Okręg Wojskowy"
+ ZAG_supregional_autocracy_DEF:0 "Śląski Okręg Wojskowy"
+ ZAG_supregional_autocracy_ADJ:0 "Śląski Okręg Wojskowy"
+ 
+ ZAG_pancerni_final_autocracy:0 "Państwo Polskie"
+ ZAG_pancerni_final_autocracy_DEF:0 "Państwo Polskie"
+ ZAG_pancerni_final_autocracy_ADJ:0 "Państwo Polskie"
+
+ 
+###KAMPFGRUPPE###
+ KAM_voivodeship_autocracy:0 "Kampfgruppe Westpolen"
+ KAM_voivodeship_autocracy_DEF:0 "Grupa Bojowa Polska Zachodnia"
+ KAM_voivodeship_autocracy_ADJ:0 "Kampfgruppe Westpolen"
+ 
+ KAM_regional_autocracy:0 "Kampfgruppe Westpolen"
+ KAM_regional_autocracy_DEF:0 "Grupa Bojowa Polska Zachodnia"
+ KAM_regional_autocracy_ADJ:0 "Kampfgruppe Westpolen"
+ 
+ KAM_supregional_autocracy:0 "Kampfgruppe Westpolen"
+ KAM_supregional_autocracy_DEF:0 "Grupa Bojowa Polska Zachodnia"
+ KAM_supregional_autocracy_ADJ:0 "Kampfgruppe Westpolen"
+ 
+ KAM_kampfgruppe_final_autocracy:0 "Besatzungszone Polen"
+ KAM_kampfgruppe_final_autocracy_DEF:0 "Polska Strefa Okupacyjna"
+ KAM_kampfgruppe_final_autocracy_ADJ:0 "Besatzungszone Polen"
+
+
+###GORZÓW###
+ MOT_voivodeship_autocracy:0 "Motokracja Gorzowska"
+ MOT_voivodeship_autocracy_DEF:0 "Motokracja Gorzowska"
+ MOT_voivodeship_autocracy_ADJ:0 "Motokracja Gorzowska"
+ 
+ MOT_regional_autocracy:0 "Motokracja Śląska"
+ MOT_regional_autocracy_DEF:0 "Motokracja Śląska"
+ MOT_regional_autocracy_ADJ:0 "Motokracja Śląska"
+ 
+ MOT_supregional_autocracy:0 "Motokracja Śląska"
+ MOT_supregional_autocracy_DEF:0 "Motokracja Śląska"
+ MOT_supregional_autocracy_ADJ:0 "Motokracja Śląska"
+ 
+ MOT_gorzow_final_autocracy:0 "Motokracja Polska"
+ MOT_gorzow_final_autocracy_DEF:0 "Motokracja Polska"
+ MOT_gorzow_final_autocracy_ADJ:0 "Motokracja Polska"
+
+###WINNYGRÓD###
+ WIN_voivodeship_freemarketism:0 "Hedonistic Republic of Winnygród"
+ WIN_voivodeship_freemarketism_DEF:0 "Hedonistyczna Republika Winnegogrodu"
+ WIN_voivodeship_freemarketism_ADJ:0 "Hedonistic Republic of Winnygród"
+ 
+ WIN_regional_freemarketism:0 "Hedonistyczna Republika Śląska"
+ WIN_regional_freemarketism_DEF:0 "Hedonistyczna Republika Śląska"
+ WIN_regional_freemarketism_ADJ:0 "Hedonistyczna Republika Śląska"
+ 
+ WIN_supregional_freemarketism:0 "Hedonistyczna Republika Śląska"
+ WIN_supregional_freemarketism_DEF:0 "Hedonistyczna Republika Śląska"
+ WIN_supregional_freemarketism_ADJ:0 "Hedonistyczna Republika Śląska"
+ 
+ WIN_wino_final_freemarketism:0 "Hedonistyczna Republika Śląska"
+ WIN_wino_final_freemarketism_DEF:0 "Hedonistyczna Republika Polski"
+ WIN_wino_final_freemarketism_ADJ:0 "Hedonistyczna Republika Śląska"
+
+
  
