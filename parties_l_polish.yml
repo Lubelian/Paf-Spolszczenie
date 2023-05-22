@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
 
  CHI_marxism_cranism_party:0 "Zhōngguó Gòngchǎndǎng"
  CHI_marxism_cranism_party_long:0 "Komunistyczna Partia Chin"
@@ -450,7 +450,7 @@
  SOS_paternal_conservatism_party:0 "PiS"
  SOS_paternal_conservatism_party_long:0 "Prawo i Sprawiedliwość"
  SOS_corporativism_party:0 "Amazon Polska"
- SOS_corporativism_party_long:0 "Amazon Poland"
+ SOS_corporativism_party_long:0 "Amazon Polska"
  SOS_autocracy_party:0 "Dealerzy"
  SOS_autocracy_party_long:0 "Dealerzy"
  SOS_neonationalism_party:0 "ŁI"
@@ -1966,7 +1966,7 @@
  BEL_euroliberalism_party_long:0 "Platforma Europejska"
  BEL_freemarketism_party:0 "KORWiN"
  BEL_freemarketism_party_long:0 "Konfederacja Odnowy Rzeczypospolitej Wolność i Nadzieja"
- BEL_paternal_conservatism_party:0 "OZN"
+ BEL_paternal_conservatism_party:0 "LNA"
  BEL_paternal_conservatism_party_long:0 "Obóz Zjednoczenia Narodowego"
  BEL_corporativism_party:0 "Gildia Piwowarów"
  BEL_corporativism_party_long:0 "Gildia Piwowarów"
@@ -3266,7 +3266,7 @@
  TNO_reactionary_party:0 "Sejmik Szlachty Devowskiej"
  TNO_reactionary_party_long:0 "Sejmik Szlachty Devowskiej"
  TNO_postpolonism_party:0 "JBWA - Neworderawka/Speerawka"
- TNO_postpolonism_party_long:0 "Jednolity Blok Współpracy Autystów - Neworderawka/Speerawka" #Unitary Block of Autistic Cooperation - Neworderawka/Speerawka
+ TNO_postpolonism_party_long:0 "Jednolity Blok Współpracy Autystów - Neworderawka/\nSpeerawka" #Unitary Block of Autistic Cooperation - Neworderawka/Speerawka
 #
  #TNO_marxism_cranism_party:0 "PZPR"
  #TNO_marxism_cranism_party_long:0 "Polish United Worker's Party"
@@ -4621,11 +4621,11 @@
  KSN_autocracy_party:0 "KNP - Frakcja Kornelii"
  KSN_autocracy_party_long:0 "Kościół Nowego Przymierza - Służebnicy Ducha Świętego"
  KSN_neonationalism_party:0 "KNP - Frakcja Tymoteusza"
- KSN_neonationalism_party_long:0 "Kościół Nowego Przymierza - Wojownicy Mesjasza"
+ KSN_neonationalism_party_long:0 "Kościół Nowego Przymierza - Wojownicy Mesjasza" 
  KSN_reactionary_party:0 "KNP"
- KSN_reactionary_party_long:0 "Kościół Nowego Przymierza"
- KSN_postpolonism_party:0 "KNP - Frakcja Euniki"
- KSN_postpolonism_party_long:0 "Kościół Nowego Przymierza - Wybrańcy Boga"
+ KSN_reactionary_party_long:0 "Kościół Nowego Przymierza" 
+ KSN_postpolonism_party:0 "KNP - Frakcja Euniki" 
+ KSN_postpolonism_party_long:0 "Kościół Nowego Przymierza - Wybrańcy Boga" 
 
  SWD_marxism_cranism_party:0 "KPP"
  SWD_marxism_cranism_party_long:0 "Komunistyczna Partia Polski"
