@@ -169,7 +169,15 @@ l_polish:
  UMN_regional_corporativism:0 "Zjednoczona Firma Kopalniana"
  UMN_regional_corporativism_DEF:0 "Zjednoczona Firma Kopalniana"
  UMN_regional_corporativism_ADJ:0 "Zjednoczona Firma Kopalniana"
-###WADOVICE##
+
+ UMN_supregional_corporativism:0 "Zjednoczona Firma Kopalniana"
+ UMN_supregional_corporativism_DEF:0 "Zjednoczona Firma Kopalniana"
+ UMN_supregional_corporativism_ADJ:0 "Zjednoczona Firma Kopalniana"
+
+ UMN_solniczka_final_corporativism:0 "Zjednoczona Firma Kopalniana"
+ UMN_solniczka_final_corporativism_DEF:0 "Zjednoczona Firma Kopalniana"
+ UMN_solniczka_final_corporativism_ADJ:0 "Zjednoczona Firma Kopalniana"
+ ###WADOVICE##
  WDW_voivodeship_marxism_cranism:0 "Galicyjska Armia Ludowo-Wyzwoleńcza"
  WDW_voivodeship_marxism_cranism_DEF:0 "Galicyjska Armia Ludowo-Wyzwoleńcza"
  WDW_voivodeship_marxism_cranism_ADJ:0 "Galicyjska Armia Ludowo-Wyzwoleńcza"
@@ -1708,5 +1716,39 @@ l_polish:
  WIN_wino_final_freemarketism_DEF:0 "Hedonistyczna Republika Polski"
  WIN_wino_final_freemarketism_ADJ:0 "Hedonistyczna Republika Śląska"
 
+ ###Skaryszew###
 
+ SKA_voivodeship:0 "Biurokracja Skaryszewska"
+ SKA_voivodeship_DEF:0 "Biurokracja Skaryszewska"
+ SKA_voivodeship_ADJ:0 "Biurokracja Skaryszewska"
+
+ SKA_regional:0 "Biurokracja Skaryszewska"
+ SKA_regional_DEF:0 "Biurokracja Skaryszewska"
+ SKA_regional_ADJ:0 "Biurokracja Skaryszewska"
+
+ SKA_supregional:0 "Biurokracja Galicyjska"
+ SKA_supregional_DEF:0 "Biurokracja Galicyjska"
+ SKA_supregional_ADJ:0 "Biurokracja Galicyjska"
+
+ SKA_kopacz_final:0 "Biurokratyczne Państwo Polskie"
+ SKA_kopacz_final_DEF:0 "Biurokratyczne Państwo Polskie"
+ SKA_kopacz_final_ADJ:0 "Biurokratyczne Państwo Polskie"
+
+ ###UJ###
+
+ UJG_voivodeship:0 "Akademicka Republika Małopolski"
+ UJG_voivodeship_DEF:0 "Akademicka Republika Małopolski"
+ UJG_voivodeship_ADJ:0 "Akademicka Republika Małopolski"
+
+ UJG_regional:0 "Jagiellońska Republika Akademicka"
+ UJG_regional_DEF:0 "Jagiellońska Republika Akademicka"
+ UJG_regional_ADJ:0 "Jagiellońska Republika Akademicka"
+
+ UJG_supregional:0 "Jagiellońska Republika Akademicka"
+ UJG_supregional_DEF:0 "Jagiellońska Republika Akademicka"
+ UJG_supregional_ADJ:0 "Jagiellońska Republika Akademicka"
+
+ UJG_faust_final:0 "Jagiellońskie Państwo Polskie"
+ UJG_faust_final_DEF:0 "Jagiellońskie Państwo Polskie"
+ UJG_faust_final_ADJ:0 "Jagiellońskie Państwo Polskie"
  
