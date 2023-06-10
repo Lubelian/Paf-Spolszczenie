@@ -1,5 +1,14 @@
-l_english:
+﻿l_polish:
  ## National Spirits ##
+ POZ_zabka: "Żabka"
+ POZ_selgros: "Selgros Sp. z o.o."
+ POZ_komputronik: "Komputronik"
+ POZ_pc_guard: "PC Guard"
+ POZ_enea: "Enea"
+ POZ_wojskowe_zaklady_mechaniczne_w_poznaniu: "Wojskowe Zakłady Mechaniczne w Poznaniu"
+ POZ_wojskowe_zaklady_uzbrojenia: "Wojskowe Zakłady Uzbrojenia" 
+ POZ_ceglorz: "H. Cegielski – Poznań"
+ 
  POZ_last_stand_of_democracy:0 "The Last Stand of Democracy"
  POZ_last_stand_of_democracy_desc:0 "We have become the only democratic state around, surrounded by German protectorates in the west, hoodlums in the south and medieval fanatics in the east. \n\nHowever, this makes us stronger in our dream of a democratic Poland again"
  POZ_last_stand_of_democracy2:0 "The Last Stand of Democracy"
@@ -30,6 +39,11 @@ l_english:
  POZ_pacification_forces_desc:0 ""
  POZ_slums_in_army:0 "Slums in Army"
  POZ_slums_in_army_desc:0 ""
+ POZ_prepare_infrastructure:0 "Prepare Infrastructure"
+ POZ_prepare_infrastructure_desc:0 ""
+ POZ_greaterpoland_for_all:0 "Greater Poland for All"
+ POZ_reconstruction_of_infrastructure:0 "Infrastructure Reconstruction"
+ POZ_last_stand_of_democracy5:0 "Last Stand of Democracy"
  ## First Tree ##
  POZ_the_last_stand_of_democracy:0 "The Last Stand of Democracy"
  POZ_the_last_stand_of_democracy_desc:0 "As a result of the actions of the authoritarian Law and Justice government, Polish democracy has collapsed. Despite the intervention of the European Union, it was not possible to save it, and so we have become one of the last places where democracy has survived. In spite of this, however, we must remain strong in the belief that the democratic order, the free principles of the Western world and human rights will return to all parts of our country. Our country is, by the way, headed by a man who has stood firmly for democracy for more than 10 years - President Jacek Jaskova. Under his leadership, we will not easily let the remnants of Polish democracy be destroyed."
@@ -177,9 +191,9 @@ poznan.1.t:0 "The Work of the Persistent"
 poznan.1.desc:0 "It was 11am. The weather was sunny with a bit of wind, and the temperature did not exceed 8 degrees. People began to slowly gather in front of the city hall on Kolegiacki Square. About 20 minutes later, President Jacek Jaskowiak emerged from City Hall surrounded by more important officials and security guards from the Poznan army. He looked visibly more tired than ever before, clearly having worked hard to maintain his small city-state, and to make it stronger in tough times, particularly with the loss of most of Poznan. He approached the rostrum with a confident yet calm step, saw the hour on his watch, stood over the rostrum for a while still, until he said: \n\n`Dear Poznanians and Poznanians, Citizens and Citizens of our state, all Soldiers, dear Friends...'. \n\nYour courage and your dedication to the democratic and Polish cause allowed us to hold on in a difficult moment, despite adversity and chaos all around, which also had its effects on us. However, despite the loss of so many neighborhoods, so many streets, so many houses, blocks or factories. However, we have not lost our spirit, our dedication, and our devotion to our cause has become stronger, for our mission is more important than ever. I am sure that the fact of the rapid reconstruction of basic infrastructure, basic services, making it possible to live a peaceful life for these times is due to you, and you have set an example of heroism. So I am confident that we will be able to completely control the chaos in the future to restore democracy and social order, so necessary in the daily lives of ordinary citizens.' \n\nThe speech lasted a total of 15 minutes. After the speech, Preyzdent Jaskowiak, surrounded by his colleagues, the soldiers of the Poznan army, who were personally commanded by our commander-in-chief, Gen. Miroslaw Rozanski, proceeded to Freedom Square. Along with the President's procession marched several hundred activists, democratic activists, and ordinary residents, who joined the President in increasing numbers. The march lasted about 15 minutes, during which the presidential procession walked along Water Street, the southern part of the Old Market Square, which until recently had been completely ditched, though not at all ideal in its current state still. Behind the Old Market Square, the procession passed through Ignacy Jan Paderewski Street, from which it had already entered Liberty Square, there Jacek Jaskowiak said aloud: \n\n'Long Live the Warriors for Democracy and Freedom, who did not live to see the return of a democratic, sovereign Poland in accordance with human rights.'' \n\nAfter that, surrounded by soldiers, he laid a wreath at the Stone commemorating those who died for democracy. Behind the president, officials laid a wreath, along with his deputy and prime minister of our state, Mariusz Wisniewski. Further wreaths were laid by other officials of our city, and the military in the form of Generals Miroslaw Rozanski and Adam Duda. About five minutes later, the ceremony ended, and President Jaskowiak, this time by car, returned to City Hall where he then returned to his paperwork."
 poznan.1.a:0 "'Always Loyal to Democracy...'"
 
-poznan.2.t:0 "drugi event"
-poznan.2.desc:0 "eee"
-poznan.2.a:0 "a"
+poznan.2.t:0 "On the Border Guard"
+poznan.2.desc:0 "Eastern portion of the former Poznań Main Railway Station, 10:01 pm. Corporal Michał Skorupka is about to begin his routine guard. He was ordered to patrol the remnants of the ruined railway bridge, destroyed in the chaos surrounding the Fall of Poland. Though the other side of the tracks is controlled by friendly EU forces, patrols in the area have thus far been largely maintained. Just opposite his own positions, an EK soldier performing a similar duty could be spotted by Skorupka, and moments later, he too managed to identify the Committee’s soldier. Yet he knew that the man he saw is no enemy, and so he decided to take off his helmet and wave at his fellow serviceman. Though he didn’t expect a response, he was pleasantly surprised to see his gesture repeated. And while a soldier fighting in the service of any other warlord would have simply shot their nation’s invader on sight, here the EU troops could expect to be treated more like friends rather than foes." \n\nMeanwhile, at 11:14 pm, private first class Jan Michniewicz was keeping guard near the Rataje roundabout, close to the border with the rebellious Slums. His posting was the former bus terminal, turned into a makeshift fort ever since public transport was shut down as a result of the invasion. The area serves as a frequent target for local bandit groups, which, living off of assaults, rapes, and murders, plunder anything they can, both within the confines of their anarchy, as well as in our state. They wished to repeat this course of action today – around 3 am, despite the darkness of night covering their advance, Michniewicz was able to spot a band of around 6 men slowly sneaking down Zamenhofa street, all wearing outfits typical for the gangsters of southern Poznań. He called out for them loud enough to be heard, prompting a retreat, as the bandits knew their raid has been foiled. It wasn’t the first such situation. In truth, most crews manning the frontline with the rebels had to deal with similar attacks. Though he didn’t know it at first, private Michniewicz was lucky to end that day alive. \n\nThe village of Garby, south of Swarzędz, lies just across the border from Tulce, controlled by Terra Felix – a nation of artists, wishing to invoke the traditions of the Polish-Lithuanian Commonwealth and the Sarmatism of its nobility. Due to its relative calmness and distance from our main frontlines within the city, few garrisons man this border, all of which already don’t contain that many soldiers. Such is the case for the Garby unit, though as no incidents occur along the frontier and the locals maintain good relations with the Sarmatian troops, the only real notable movement are the occasional soldiers crossing to fraternize, drink and play games with their compatriots. \n\nThough our eastern border with the Duchy of Gniezno is covered mainly by forests, one post exists in the village of Wagowo. On the other side stands a similarly small outpost belonging to soldiers of the ducal corps. Local inhabitants don’t really maintain any contact with them, however, and ever since our state’s foundation, no incidents or clashes have occurred in the area." 
+poznan.2.a:0 "All quiet on the border. For now..."
 
 poznan.3.t:0 "jesteśmy gotowi do działań"
 poznan.3.desc:0 "eee"
@@ -288,6 +302,63 @@ poznan.27.a:0 "aaaaaaaaaaaaaaaaaaaaaaaaaaaa"
 poznan.28.t:0 "spotkania z januszefami"
 poznan.28.desc:0 "eee"
 poznan.28.a:0 "a"
+
+poznan.28.t:0 "Konferencja w ratuszu"
+poznan.28.desc:0 "w sprawie odbicia zachodniej cześci miasta"
+poznan.28.a:0 "ciekawe"
+
+poznan.30.t:0 "walka mieszkańców zachodnich dzielnic przeciwko syjonowi"
+poznan.30.desc:0 ""
+poznan.30.a:0 ""
+
+poznan.31.t:0 "początek odbudowy miasta"
+poznan.31.desc:0 "chyba betonizacji"
+poznan.31.a:0 ""
+
+poznan.32.t:0 "partyzanci wolności w syjonie"
+poznan.32.desc:0 "wolności i rozkopania"
+poznan.32.a:0 ""
+
+poznan.33.t:0 "powrót tramwajów w mieście"
+poznan.33.desc:0 "oczywiście nie w centrum"
+poznan.33.a:0 "bimba"
+
+poznan.34.t:0 "usuwanie skutków syjonu"
+poznan.34.desc:0 ""
+poznan.34.a:0 ""
+
+poznan.35.t:0 "kampanie prodemokratyczna wśród mieszkańców"
+poznan.35.desc:0 "wyzwolonych spod władzy syjonu"
+poznan.35.a:0 ""
+
+poznan.36.t:0 "promocja tolerancji"
+poznan.36.desc:0 ""
+poznan.36.a:0 ""
+
+poznan.37.t:0 "procesy nacjoli"
+poznan.37.desc:0 ""
+poznan.37.a:0 ""
+
+poznan.38.t:0 "zmniejszenie wpływów kościoła"
+poznan.38.desc:0 ""
+poznan.38.a:0 ""
+
+poznan.39.t:0 "kwestia praw zwierząt"
+poznan.39.desc:0 ""
+poznan.39.a:0 ""
+
+poznan.40.t:0 "początek odbudowy powiatu"
+poznan.40.desc:0 ""
+poznan.40.a:0 ""
+
+poznan.41.t:0 "kwestia suburbi"
+poznan.41.desc:0 ""
+poznan.41.a:0 ""
+
+poznan.42.t:0 "początek przygotowań do wyborów"
+poznan.42.desc:0 ""
+poznan.42.a:0 ""
+
 
 unification.50.t:0 "[GetNewspaper]Poznań Committee unifies Northern Greater Poland"
 unification.50.desc:0 "According to the latest reports from Greater Poland, the northern parts of this region have been reunited by the President of the city of Poznań, Jacek Jaśkowiak, which along with the remnants of his city and the Poznań County created one of the last bastions of the Pre-Fall Polish democracy. \n\nAlthough not very popular in Poznań, as a result of tragically poor renovations, the effects of which are still visible today, he managed to gain the support of the residents, the military and the newcomers to the region, to move west first, to unite the Poznań County, and then northward to unite a greater area of Greater Poland under their democratic ideals.\n\nEven though many of the consequences brought by this are still uncertain, the main course of action of the new Greater Polish Government will be to re-establish democracy across all of Poland."
