@@ -8045,7 +8045,7 @@ l_polish:
  STATE_874_GER: "Naugard"
  STATE_874_JOM: "Nygaard"
  STATE_874_LEH: "Nowogród Pomorski"
- STATE_874_UKROS: "Novogard"
+ STATE_874_UKROS: "Nowogard"
  STATE_874_USP: "Newtown-by-sea"
  
  STATE_875: "Węgorzewo"
@@ -8056,7 +8056,7 @@ l_polish:
  STATE_875_LEH: "Węgobork"
  STATE_875_UKROS: "Węgorzewo"
  STATE_875_USP: "Eeltown"
- STATE_875_USP: "Angerbargs"
+ STATE_875_PRU: "Angerbargs"
  
  STATE_876: "Wielbark"
  STATE_876_CAL: "Vilmontum"
