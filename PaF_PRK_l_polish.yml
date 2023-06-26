@@ -5,11 +5,11 @@ POLITICS_ZBIGNIEW_ZIOBRO_DESC:0 "Zbigniew Ziobro could, perhaps, claim he is bot
 ##Events##
 ziobro.1.t:0 "[GetNewspaper]Ziobro jednoczy województwo świętokrzyskie"
 ziobro.1.desc:0 "Czarne cienie pojawiają się nad Górami Świętokrzyskimi w momencie, kiedy autorytet Prokuratury w Kielcach ogłosili, że ponownie mają pełną kontrolę nad całym województwem. Wśród ciężkich walk, siły Ziobry wkroczyły do Starachowic i do Sandomierza, przytłaczając zarówno milicję z Kombinatu, jak i z Republiki, a zatem przynosząc do wszystkich tak zwanych liberalnych niezgód. \n\nGdy w krajach odzyskanych prowadzone są czystki, krążą plotki o przeniesieniu sił na północny front tak samo, a także o ciężkich stratach poniesionych podczas walk, przyniosły kolejną falę niepokoju, tym razem zarówno wśród ludności, jak i w siłach zbrojnych Prokuratury. Oczekuje się, że oba zbuntowane miasta posłużą jako przykłady dla tych niechętnych do poddania się woli Ziobry."
-ziobro.1.a:0 "Możesz pomyśleć, że masz na myśli coś więcej..." 
+ziobro.1.a:0 "Myślisz może że więcej coś znaczysz..." 
       
 ziobro.2.t:0 "[GetNewspaper]Ziobrowi się nie udaje podporządkować północnych powiatów"
 ziobro.2.desc:0 "Pocieszające wiadomości przybywają z Kielc, gdy miasto pogrąża się w chaosie po udanym sprzeciwie Starachowic i Sandomierza wobec autorytetu Prokuratury. Gdy siły Ziobry leżą roztrzaskane, jego uścisk nad całym regionem dramatycznie się rozluźnił. Niepokój wydaje się wymykać spod kontroli i są plotki o nadciągających paramilitarnych dowódców odmawiających wykonywania dalszych rozkazów.\n\nPowszechnie wierzy się, że Ziobro ma niewielką kontrolę nad całą sytuacją i spróbuje zrobić wszystko, by uratować swój żałosny tyłek."
-ziobro.2.a:0 "Wskazówka zegara się cofa."
+ziobro.2.a:0 "Wskazówka cofa się."
 
 ziobro.3.t:0 "[GetNewspaper]Powstanie Świętokrzyskie"
 ziobro.3.desc:0 "Pomimo najlepszych wysiłków Ziobry, niepokój na jego ziemiach okazał się zbyt duży, by go powstrzymać. Nacjonalistyczne bojówki odłączyły się od jego sił i otworzyły ogień do tych wysłanych na negocjacje. Komuniści i socjaliści przejęli kontrolę nad Starachowicami i są plotki o libertariańskich milicjach przejmujących południe. W Sandomierzu ludowe powstanie wybrało księdza, by prowadził i bronił miasto. I cóż, ktokolwiek pojawił się na południowym zachodzie, nawet my nie życzylibyśmy sobie, by Ziobro go poznał. \n\nNa razie, rebelianci nie atakowali się nawzajem, ponieważ są w dużej mierze skupieni na walce ze wspólnym wrogiem - przynajmniej na razie. Ziobro był ostatnio widziany podczas ucieczki do Małopolski, by ustanowić tam bezpieczną bazę operacji; jeżeli zadziała szybko, może stłumić rebeliantów, zanim całkowicie opanują jego domenę."
@@ -21,7 +21,7 @@ ziobro.4.a:0 "Mniej niż zero..."
 
 ziobro.16.t:0 "Lista krajów, które mogą być uwolnione"
 ziobro.16.desc:0 "1. Waffen-$$$$ - Kelthuz (Libertariańsko-słowiańsko-nihilistyczny edgizm)\n2. Towarzystwo Świętego Krzyża - Robert Bąkiewicz (Nacjonalistyczne państwo preppersów)\n3. Festung Kielce - Dominik Tarczyński (Kielce moje ukochane)\n4. Gwardia Ludowa - Ludmiła Dobrzyniecka (Komunistyczni partyzanci)\n5. Front Zera - Zbigniew Stonoga (JEBAĆ PIS, ZIOBRO WALCZYMY Z TOBĄ, ZABIJEMY KAŻDEGO PISOWCA)\n\nPodczas rozgrywki pojawią się pewne wydarzenia narracyjne opisujące wspomniane frakcje, w których będzie można wybrać je jako frakcję docelową (lub pozostać w Prokuraturze Najwyższej)"
-ziobro.16.a:0 "Zegar się cofa..."
+ziobro.16.a:0 "Zegar cofa się..."
 
 unification.62.t:0 "[GetNewspaper]The General Prosecutorship unites Holy Cross Voivodeship"
 unification.62.desc:0 "The sheer volume of anti-Ziobro revolts didn't seem to indicate he could stand his ground in the Holy Cross region. So, he turned his eyes onto Kraków, and conquered it. During a controlled press conference at Wawel Castle, Zbigniew Ziobro has stated his forces are in full control of the voivodeship. This fact has been accentuated by another wave of refugees fleeing from repressions following a march of the Prosecutorship's forces. \n\nHaving learned his lesson, Ziobro won't likely relent when it comes to his style of government. Many have characterized the resurgent regime as 'dystopian' and 'Orwellian', although some have pointed out it might be one of the saner options in the Polish Anarchy. One thing is certain for now: Ziobro is a serious contender, and it's better not to get on his bad side."
