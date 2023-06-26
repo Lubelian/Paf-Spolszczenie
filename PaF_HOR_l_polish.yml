@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
 
  ## First Tree ##
  ##Events##
@@ -6,6 +6,11 @@
  procesja.3.desc:0 "Konsekracja pielgrzymów z całej Polski, która przybyła do Włocławka, żeby ochronić ciało Jana Pawła II, zdecydowała opuścić niestabilny region Kujaw nękany przez polityczną zimną wojnę i idą na jeszcze bardziej niebezpieczne terytorium.\n\nIch celem jest odzyskanie Wadowic z rąk komunistycznych barbarzyńców, którzy teraz bezczeszczą te święte tereny. Wieczna Procesja jak to nazywali ludzie, składa się z wierzących z wszelkiego rodzaju, od najniższych klas aż po wojsko, aż po polityków i wyższy kler. Jest prowadzony przez byłego wicemarszałka w imieniu Prawa i Sprawiedliwości, Ryszarda Terleckiego, który wygląda jakby w każdym momencie, mógł wskoczyć do trumny.\n\nDroga przed nami jest długa, pełna zagrożeń, a procesja musi dodatkowo chronić ciało Papieża. I ponad wszystko, nikt nie wchodzi tak po prostu do Wadowic ..."
  procesja.3.a:0 "Powodzenia!" 
  procesja.3.b:0 "Co do..."
+  
+ procesja_west.1.t: "The Eternal Procession approaches the Consortium"
+ procesja_west.1.desc: "- Dear board of the Flower Consortium - Ryszard Terlecki began with monotonous and seemingly bored voice - The Holy Procession needs to pass to rescue the body of pope saint John Paul II from the hands of the vile communists. If the money you possess hasn't wiped away your conscience, than you'll know our cause is just.\n The whole of the board was listening to the announcement thanks to live broadcast from the border guard post nearest to the pilgrims.\n - Such an imperitinence - Wesołowska complained.\n - Can't we just shoot'em? - Rutkowski asked.\n - Ah, fellow corpse enthusiast - Ebrantil whispered with admiration. Not quietly enough as the other member of the board gave him a suspicious look, but then decided to ignore his behavior. - Sounds profitable. - Skrzydlewski decided to break the silence.n\ - Father, you can't just let those fanatics roam around our teritorries. No matter how much they can pay and I don't think they can pay that much."
+ procesja_west.1.a: "Pay up, Terlecki"
+ procesja_west.1.b: "Get those zealots out of my sight"
   
  unification.142.t:0 "[GetNewspaper]The Eternal Procession unifies Lesser Poland!"
  unification.142.desc:0 "Setting out from Włocławek, singing prayers and praises to God, the procession embarked on a great voyage through a war torn Poland. Braving the dangers that lurk around every corner, traversing the lands of many warlords who graciously granted them passage, the Eternal Procession arrived at their destination, only to find it swarming with bandits, in a state of anarchy worse than the one they left. At the sight of Sodom and Gomorrah incarnate, their mission gained a new purpose; They needed to bring order and the word of God to these chaotic lands. And so they did. Mustering their strength, they slain the Bandits of Skawina, freeing the peoples from their oppression and reclaimed the lands of Lesser Poland, gracing them with their divine guidance. All rejoice in Kraków, Wadowice and all across the reunified Voivodeship as they pour their hearts into Eternal Prayer. For those gathered before the altars one thing is certain..."
