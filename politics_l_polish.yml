@@ -1,11 +1,11 @@
-﻿l_polish:
+l_polish:
  #POLITICS_SUBGOAL_HEADER:0 "$NAME$ ($COLOR$$PROGRESS|%0$§!):"
  POLITICS_SUBGOAL:0 "Cel #$NUMBER$"
  DRIFT_DIM_RETURN:0 "Dryf partyjny: §R-$VAL$§!\n"
  POL_DAILY_CHANGE:0 "Dzienna zmiana: $VAL$"
  POL_OTHERS_DRIFT:0 "Przez zmiany w innych partiach: $VAL$"
  POLITICS_NOELECTIONS:0 "Brak wyborów"
- POLITICS_NEXTELECTION:0 "Następne wybory"
+ POLITICS_NEXTELECTION:0 "§gNastępne wybory§!"
  POLITICS_ELECTION_FREQUENCY:0 "Rząd będzie pełnił $MONTHS|H$-letnią kadencję."
  POLITICS_HOLD_ELECTION:0 "Wybory w kraju ($COUNTRY$)"
  POLITICS_NEXT_ELECTION:0 "Następne wybory $DATE$"
