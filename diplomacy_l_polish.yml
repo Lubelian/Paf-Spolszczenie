@@ -1,4 +1,4 @@
-﻿l_polish:
+l_polish:
  DIPLO_POSITIVE:0 "Pozytywy: $VAL|G$"
  DIPLO_NEGATIVE:0 "Negatywy: $VAL|R$"
  GOOD_BAD_RATIO:0 "Musimy zebrać co najmniej $THRESHOLD|Y$ więcej §Gpozytywów§! niż §Rnegatywów§!, żeby doszło do ugody. Aktualnie mamy ich $RATIO|Y$."
@@ -119,12 +119,12 @@
  DIPLOMACY_MESSAGE_CANCELED_REASON_US_NO_POWER:0 "ponieważ zabrakło nam siły politycznej"
  DIPLOMACY_MESSAGE_CANCELED_REASON_THEY_NO_POWER:0 "ponieważ krajowi ($COUNTRY|Y$) zabrakło siły politycznej"
  DIPLOMACY_MESSAGE_MAINTAIN_COST:0 "$RELATION|Y$ z krajem ($COUNTRY|Y$:): §R$VALUE$§!; $FREQUENCY$"
- DIPLOMACY_MESSAGE_OTHERS_TITLE:0 "Wiadomość: $COUNTRY$"
+ DIPLOMACY_MESSAGE_OTHERS_TITLE:0 "Kweek od: $COUNTRY$"
  DIPLOMACY_MESSAGE_FACTION_DISMANTLED:1 "§Y$COUNTRY|U$§! rozwiązuje swoją frakcję!.\n\nKraj postanawia na razie polegać na sobie."
  DIPLOMACY_OFFER_JOIN_FACTION_OTHERS_DESC:1 "$COUNTRY|U$ dołącza do frakcji ($FACTION$)."
  DIPLOMACY_JOIN_FACTION_OTHERS_DESC:1 "$COUNTRY|U$ dołącza do frakcji ($FACTION$)."
  DIPLOMACY_LEAVE_FACTION_OTHERS_DESC:1 "$COUNTRY|U$ opuszcza frakcję ($FACTION$)."
- DIPLOMACY_WAR_OTHERS_DESC:1 "$ACTOR|U$ wypowiada wojnę, celem jest $TARGET$."
+ DIPLOMACY_WAR_OTHERS_DESC:1 "§C$ACTOR$§! STRONG\n§R$TARGET$§! WE WAR YOU"
  DIPLOMACY_GUARANTEE_TITLE:0 "Gwarantuj niepodległość"
  DIPLOMACY_GUARANTEE_DESC:0 "Gwarantowanie niepodległości tego kraju ($COUNTRY|H$) oznacza, że wypowiemy wojnę każdemu, kto go zaatakuje; obniża też §Ynapięcie światowe§! o $THREAT|Y%$."
  DIPLOMACY_GUARANTEE_NO_THREAT_DESC:0 "Gwarantowanie niepodległości tego kraju ($COUNTRY|H$) oznacza, że wypowiemy wojnę każdemu, kto go zaatakuje."
