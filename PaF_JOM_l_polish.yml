@@ -1,17 +1,17 @@
-﻿l_polish:
+l_polish:
 
  ## First Tree ##
  
 JOM_ny_saga: "Ný Saga"
-JOM_tyr_chosen: "Tyr's Chosen"
-JOM_marxist_vanguard: "Marxist Vanguard"
-JOM_first_divisions: "First Divisions"
-JOM_who_am_i: "Who Am I?"
-JOM_what_am_i_doing: "What Am I Doing?"
-JOM_intruders: "Intruders!"
-JOM_inland_contacts: "Inland Contacts"
-JOM_thousand_drakkars: "Thousand Drakkars"
-JOM_begin_the_revolution: "Begin the Revolution!"
+JOM_tyr_chosen: "Wybrany przez Tyra"
+JOM_marxist_vanguard: "Marksistowska awangarda"
+JOM_first_divisions: "Pierwsze dywizje"
+JOM_who_am_i: "Kim jestem?"
+JOM_what_am_i_doing: "Co ja robię?"
+JOM_intruders: "Intruzi!"
+JOM_inland_contacts: "Kontakty śródlądowe"
+JOM_thousand_drakkars: "Tysiące Drakkarów"
+JOM_begin_the_revolution: "Początek rewolucji!"
 JOM_althing: "I Althing of Jomsborg"
 JOM_social_care_debate: "Welfare Debate"
 JOM_state_development_debate: "State Development Debate"
@@ -75,6 +75,26 @@ JOM_renewable_energy_sources_desc: ""
 jomsborg.3.t:0 "[GetNewspaper]A Viking Invasion?!"
 jomsborg.3.desc:0 "Every few days, more news about EKW's downfall reach us. Today's news, however, have been... quite unorthodox. Apparently, Pomeranian regional media are informing about... a Viking raid on Kamień Pomorski. \n\nThe norsemen were led by Adrian Zandberg (apparently referred to as Halfdan Sandbjerg by his men), whom it looks like have finally returned back to the country after his exodus to Bornholm following the conflict between him and the Eurokommissariat's government. After his public denunciations of EKs' inner patologies and shady deals ultimately resulted in his arrest and a police raid on his house, Zandberg made a speech on how not even the EU is able to save the failed concept that is Poland, and that in order to build a respectable state, Polish identity as a whole needs to be replaced with a more noble, Nordic one."
 jomsborg.3.a:0 "Til almannaheilla."
+
+jomsborg.4.t:0 "The frozen wild"
+jomsborg.4.desc:0 ""
+jomsborg.4.a:0 ""
+
+jomsborg.5.t:0 "Fall of unity"
+jomsborg.5.desc:0 ""
+jomsborg.5.a:0 ""
+
+jomsborg.6.t:0 "Listen to me!"
+jomsborg.6.desc:0 ""
+jomsborg.6.a:0 ""
+
+jomsborg.7.t:0 "Lost in mind"
+jomsborg.7.desc:0 ""
+jomsborg.7.a:0 ""
+
+ekwrozpad.13.t:0 "Valhalla calls!"
+ekwrozpad.13.desc:0 ""
+ekwrozpad.13.a:0 ""
 
 unification.76.t:0 "[GetNewspaper]Jomsborg conquers West Pomerania!"
 unification.76.desc:0 "kościółsiępali.png"
