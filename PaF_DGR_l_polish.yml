@@ -236,9 +236,9 @@ DGR_avanti_popolo_desc: ""
  dgr_district.1.desc: "Begin the district wars"
  dgr_district.1.a: "Chaos is a ladder"
 
- dgr.1.t: "Somewhere in 'Silesia'" 
+ dgr.1.t: "Gdzieś na Śląsku" 
  dgr.1.desc: "Sami jesteście kurwa Śląsk" 
- dgr.1.a: "Let's remind them." 
+ dgr.1.a: "Przypomnijmy im." 
 
  unification.14.t: "[GetNewspaper]Dąbrowa Górnicza unifies Zagłębie and Jura!"
  unification.14.desc: "In an unexpected turn of events, a little dictatorship from Dąbrowa Górnicza managed to conquer their surrounding territories. Surrounded by more powerful enemies, it held on, and thanks to the Katowice Steelworks and the power of industry it prevailed against the early onslaught, conquering Jura.\nThe strange combination of communism and nationalism has proved to be stable and effective so far. It is not entirely clear what the relations between individual factions are, but taking into account their morale - we cannot count on an imminent end to this pact of two devils.\nThe People's Front of Zagłębie (as was their official name) now has at its disposal the untamed industrial power of the Dąbrowa Basin. It would seem that they will hit Silesia next, but unofficial sources seem to report that their eyes are focused on Lesser Poland."
@@ -250,7 +250,7 @@ DGR_avanti_popolo_desc: ""
  
  unificationsupreg.14.t: "[GetNewspaper]National People's Army unifies Galicia"
  unificationsupreg.14.desc: "During times of crisis, makeshift states often end up collapsing, and yet the unusual ideological mix comprising the National People’s Army managed to overcome all internal divisions. The solution, proclaimed by the party as a “vast refreshment of inner quality”, was, in fact, a massive political purge of all political opponents and factions that formed in opposition to the burgeoning project. For quite some time now, the NPA ceased to function only as a paramilitary organization, with the growing party apparatus taking over many civilian governmental functions. For this reason, after a grand military parade in Lublin, Krzysztof Szwej announced the creation of the National People’s Republic of Poland, together with the releasing of a manifesto addressed to all of the country’s citizens - “The victory of the Polish working class is approaching, and just like a hundred years ago, the only legitimate government exists here, in Lublin.”"
-  unificationsupreg.14.a: "The National People's Army must win!"
+ unificationsupreg.14.a: "The National People's Army must win!"
  
  super.14.t: "[GetNewspaper]National People's Army unifies Poland!"
  super.14.desc: "The great struggle of the working class is at last complete. Poland emerges from the ashes as a militaristic country, built upon the pillars of fanatical nationalism and hardline communism, causing widespread panic among neighboring states. Even separately, the two ideologies are enemies of the free world. Together, they form an axis of evil in the eyes of Western powers. \nInside the country, the truth can hardly be distinguished from propaganda, as following a bloody civil war, it is impossible to tell who died as a result of the fighting, and who was forcefully “redistributed”. In the areas where no shot has been fired for years, internment camps remain, and all political organizations except for the supreme party have been disbanded, with all opposition activity subsequently banned. \nThe National People’s Republic of Poland is moving towards another permanent revolution, and with Europe divided and at its weakest, the second half of the 21st century might just belong to National Bolshevism."
