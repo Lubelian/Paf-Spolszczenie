@@ -181,78 +181,78 @@ BBW_divide_et_impera_desc: "In the literary backwards and ideologically populist
 BBW_licking_wounds: "Lizanie ran"
 BBW_licking_wounds_desc: "At last, all of our sacrifices have finally paid off. Nobody in the entire former voivodeship exports Wiechism to us, there are no punishments for the destruction of the environment anywhere, and nowhere are there any maggots of retrograde. The next stages of the carbonization of the Brotherhood's lands can now be taken. Soon we will become at least a regional economic powerhouse and we will provide our wards with goods and services which poverty, war and green swindlers forced them to forget..."
   ##resztadrzewek##
-BBW_warzecha_report: "" #Raport Warzechy
-BBW_SYSTEM_OVERLOAD: "SYSTEM OVERLOAD" #PRZECIĄŻENIE SYSTEMU
-BBW_electricity_stamps: "Electricity Stamps"
-BBW_blow_up_lodz: "Blow Up Łódź!" #Wysadzenie Łodzi!
-BBW_temporary_adepts: "Adeptus Temporalis"
+BBW_warzecha_report: "Raport Warzechy" #
+BBW_SYSTEM_OVERLOAD: "PRZECIĄŻENIE SYSTEMU"
+BBW_electricity_stamps: "Kartki na prąd"
+BBW_blow_up_lodz: "Wysadzić Łódź!"
+BBW_temporary_adepts: "Adepci Tymczasowi"
 BBW_crisis_staff: "Sztab kryzysowy"
-BBW_war_for_younger_generations: "War for Younger Generations"
+BBW_war_for_younger_generations: "Walka o Młode Pokolenie"
 BBW_carbonari_association: "Carbonari Association"
-BBW_chop_whatever_you_can: "CHOP WHATEVER YOU CAN!"
-BBW_take_whoever_you_can: "TAKE WHOEVER YOU CAN!"
-BBW_search_wherever_you_can: "SEARCH WHEREVER YOU CAN!"
+BBW_chop_whatever_you_can: "RĄBAĆ CO SIĘ DA!"
+BBW_take_whoever_you_can: "ZGARNĄĆ KOGO SIĘ DA!"
+BBW_search_wherever_you_can: "SZUKAĆ GDZIE SIĘ DA!"
 BBW_voice_of_the_brotherhood: "Głos Bractwa"
 BBW_protocols_of_atomic_crusade: "Protokoły Atomowej Krucjaty"
-BBW_green_faction: "Zielona frakcja"
+BBW_green_faction: "Zielona Frakcja"
 BBW_progress: "Postęp"
 BBW_achievements: "Osiągnięcia"
-BBW_official_initation_of_adepts: "Oficjalna inicjacja adeptów"
+BBW_official_initation_of_adepts: "Oficjalna Inicjacja Adeptów"
 BBW_new_brotherhood_spokesman: "Nowy Rzecznik Bractwa"
 BBW_stabilization_of_energy_grid: "Stabilizacja sieci energetycznej"
 BBW_a_curious_find: "Nocna przygoda"
-BBW_moment_of_peace: "Chwila spokoju"
+BBW_moment_of_peace: "Chwila Spokoju i Refleksji"
 
-BBW_our_inspiration: "Our Inspiration" #Nasze inspiracje
-BBW_lungs_full_of_hope: "Lungs Full of Hope" #Płuca pełne nadziei
-BBW_factory_scribes: "Factory Scribes"
-BBW_tube_terminals: "Tube Terminals"
-BBW_initial_start: "Initial Start"
-BBW_private_investitions: "Private Investments" #Prywatne inwestycje
-BBW_full_speed_production: "Full Speed Production" #Pełna prędkość produkcji #Produkcja na pełnych obrotach
-BBW_american_licenses: "American Licences" #Amerykańskie licencje
-BBW_district_bunkers: "District Bunkers" #Bunkry okręgowe
-BBW_beef_on_the_table: "Beef on the Table" #Wołowina na stole
-BBW_city_adjustment: "City Adjustment"
-BBW_organised_logging: "Organised Logging"
-BBW_energetic_stability: "Energetic Stability"
-BBW_underground_mine_belchatow: "Tap into Złoczew Coal Deposits"
-BBW_district_mine_rogow: "District Mine Rogów"
-BBW_internal_migration: "Internal Migration"
-BBW_surface_mines_glowno_rogozno: "Surface Mines in Głowno and Rogoźno"
-BBW_power_of_steel: "Power of Steel" #Potęga/Moc/Siła stali
-BBW_machines_of_future: "Machines of the Future"
-BBW_soldiers_of_future: "Soldiers of the Future"
-BBW_airships_of_the_future: "Airships of the Future" #Sterowce przyszłości
-BBW_cinder_drones: "Cinder Drones"
-BBW_vertibirds_on_prey: "Vertibirds of Prey"
-BBW_terror_of_the_skies: "Terror of the Skies" #Terror Niebios
-BBW_need: "Need" #Potrzeba
-BBW_necessity: "Necessity" #Konieczność
-BBW_fast_is_good: "Fast is Good" #Prędkość jest dobra
-BBW_harder_is_better: "Harder is Better" #Twardsze jest lepsze #Trudniej znaczy lepiej #Mocniej znaczy lepiej
-BBW_paladin_tomasz_sommer_zpw: "Paladin Sommer Arms' Factory"
-BBW_rapid_responding: "Rapid Response Units"
-BBW_first_contact_forces: "First Contact Forces" #Siły Pierwszego Kontaktu
-BBW_cham21: "Święta Barbara Cannon"
-BBW_zgred37: "Koala Tank"
-BBW_armored_roller_grace: "Grace of an Armored Waltz"
-BBW_modern_plating: "Modern Plating"
-BBW_dissemination_of_bulletproof_vests: "Mass Adoption of Bulletproof Vests"
-BBW_most_modern_plating: "The Most Modern Plating"
-BBW_contracts_of_our_dreams: "Contracts of Our Dreams"
-BBW_knights_of_progress: "Knights of Progress" #Rycerze postępu
-BBW_full_success: "Full Success" #Pełny sukces
-BBW_moderate_success: "Moderate Success" Umiarkowany sukces #Średni sukces
-BBW_alternative_application: "Alternative Applications"
-BBW_internal_peace: "Internal Peace"
-BBW_press_freedom_institute: "Institute of Press Freedom"
-BBW_climatology_institute: "Institute of Climatology"
-BBW_brotherhood_u: "Academy of Common Sense"
-BBW_one_paper: "One Paper" #Jeden papier
-BBW_semblance_of_discussion: "Facade of Discussion"
-BBW_one_vision: "One Vision"
-BBW_full_shafts: "Full Shafts"
+BBW_our_inspiration: "Nasza inspiracja"
+BBW_lungs_full_of_hope: "Płuca Pełne Nadziei" 
+BBW_factory_scribes: "Skrybowie Zakładowi"
+BBW_tube_terminals: "Terminale Kineskopowe"
+BBW_initial_start: "Rozruch wstępny"
+BBW_private_investitions: "Prywatne inwestycje"
+BBW_full_speed_production: "Pełna Produkcja"
+BBW_american_licenses: "Amerykańskie Licencje" 
+BBW_district_bunkers: "Bunkry Okręgowe" 
+BBW_beef_on_the_table: "Wołowina na Stół"
+BBW_city_adjustment: "Korekta miejska"
+BBW_organised_logging: "Zorganizowana wycinka"
+BBW_energetic_stability: "Małe elektrownie węglowe w każdej wsi"
+BBW_underground_mine_belchatow: "Kopalnia Głębinowa Złoczew"
+BBW_district_mine_rogow: "Kopalnia Okręgowa Rogów"
+BBW_internal_migration: "Imigracja Wewnętrzna"
+BBW_surface_mines_glowno_rogozno: "Kopalnie Odkrywkowe Głowno i Rogoźno"
+BBW_power_of_steel: "Potęga Stali"
+BBW_machines_of_future: "Maszyny przyszłości"
+BBW_soldiers_of_future: "Żołnierze Przyszłości"
+BBW_airships_of_the_future: "Sterowce przyszłości"
+BBW_cinder_drones: "Drony Popielne"
+BBW_vertibirds_on_prey: "Vertibirds of Prey" #Drapieżne ptaki
+BBW_terror_of_the_skies: "Terror Niebios"
+BBW_need: "Potrzeba"
+BBW_necessity: "Konieczność"
+BBW_fast_is_good: "Szybko czyli Dobrze"
+BBW_harder_is_better: "Mocno czyli lepiej" 
+BBW_paladin_tomasz_sommer_zpw: "ZPW im. Paladyna Tomasza Sommera"
+BBW_rapid_responding: "Jednostki szybkiego reagowania"
+BBW_first_contact_forces: "Siły Pierwszego Kontaktu"
+BBW_cham21: "Armata Święta Barbara"
+BBW_zgred37: "Czołg Koala"
+BBW_armored_roller_grace: "Gracja pancernego walca"
+BBW_modern_plating: "Nowoczesne Opancerzenie"
+BBW_dissemination_of_bulletproof_vests: "Upowszechnienie Kamizelek Kuloodpornych"
+BBW_most_modern_plating: "Najnowocześniejsze Opancerzenie"
+BBW_contracts_of_our_dreams: "Zlecenia naszych marzeń"
+BBW_knights_of_progress: "Rycerze Postępu"
+BBW_full_success: "Pełny Sukces"
+BBW_moderate_success: "Umiarkowany sukces"
+BBW_alternative_application: "Alternatywne zastosowania"
+BBW_internal_peace: "Spokój Wewnętrzny"
+BBW_press_freedom_institute: "Instytut Wolności prasy im. Stanisława Janeckiego"
+BBW_climatology_institute: "Instytut Klimatologii im. Rafała Ziemkiewicza"
+BBW_brotherhood_u: "Akademia Zdrowego Rozsądku"
+BBW_one_paper: "Jedna Gazeta" 
+BBW_semblance_of_discussion: "Pozory Dyskusji"
+BBW_one_vision: "Jedna Wizja"
+BBW_full_shafts: "Pełne Szyby"
 
 BBW_regionalisation_of_brotherhood: "Regionalizacja Bractwa"
 BBW_even_angry: "Even the Angry" #Nawet wściekły
