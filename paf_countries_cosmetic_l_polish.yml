@@ -1357,8 +1357,8 @@ l_polish:
  RYB_galecki_final_marxism_cranism_DEF: "Wolne Wody Polskie"
  RYB_galecki_final_marxism_cranism_ADJ: "Wolne Wody Polskie" 
  
- RYB_sum_socialdemocrature:1 "Rzecznapospolita Jeziorańska"
- RYB_sum_socialdemocrature_DEF:1 "Rzecznapospolita Jeziorańska"
+ RYB_sum_socialdemocrature: "Rzecznapospolita Jeziorańska"
+ RYB_sum_socialdemocrature_DEF: "Rzecznapospolita Jeziorańska"
  RYB_sum_socialdemocrature_ADJ: "Rzecznapospolita Jeziorańska"
  
 #MNI
@@ -1378,8 +1378,8 @@ l_polish:
  MNI_galla_final_socialdemocrature_DEF: "Rzeczpospolita Polska"
  MNI_galla_final_socialdemocrature_ADJ: "Polnische Republik"
 
- MNI_UE_socialdemocrature:1 "Oberschlesische Republik"
- MNI_UE_socialdemocrature_DEF:1 "Republika Górnośląska"
+ MNI_UE_socialdemocrature: "Oberschlesische Republik"
+ MNI_UE_socialdemocrature_DEF: "Republika Górnośląska"
  MNI_UE_socialdemocrature_ADJ: "Oberschlesische Republik" 
 
 #OPO
@@ -1843,3 +1843,107 @@ l_polish:
  UJG_faust_final_DEF: "Jagiellońskie Państwo Polskie"
  UJG_faust_final_ADJ: "Jagiellońskie Państwo Polskie"
  
+  ###POST-SMOG COLLAPSE###
+ BBW_postsmog: "Pustkowie"
+ BBW_postsmog_DEF: "Pustkowie"
+ BBW_postsmog_ADJ: "Pustkowie"  
+
+ BOM_BBW: "Nitroszczury"
+ BOM_BBW_DEF: "Nitroszczury"
+ BOM_BBW_ADJ: "Nitroszczury" 
+
+ STL_BBW: "Bractwo Stali"
+ STL_BBW_DEF: "Bractwo Stali"
+ STL_BBW_ADJ: "Bractwo Stali"  
+
+ ZON_BBW: "Atomowa Krucjata"
+ ZON_BBW_DEF: "Atomowa Krucjata"
+ ZON_BBW_ADJ: "Atomowa Krucjata"  
+
+ NHT_BBW: "Smocze Leże"
+ NHT_BBW_DEF: "Smocze Leże"
+ NHT_BBW_ADJ: "Smocze Leże"  
+
+ JSW_BBW: "Śląskie Bractwo Węgla"
+ JSW_BBW_DEF: "Śląskie Bractwo Węgla"
+ JSW_BBW_ADJ: "Śląskie Bractwo Węgla"  
+
+ CAL_BBW: "Kohorta Caniusa"
+ CAL_BBW_DEF: "Kohorta Caniusa"
+ CAL_BBW_ADJ: "Kohorta Caniusa"  
+
+ EKW_BBW: "UNOP"
+ EKW_BBW_DEF: "Operacja ONZ w Polsce"
+ EKW_BBW_ADJ: "Operacja Narodów Zjednoczonych w Polsce"   
+
+ GAY_BBW: "Czarni Paladyni"
+ GAY_BBW_DEF: "Czarni Paladyni"
+ GAY_BBW_ADJ: "Czarni Paladyni"  
+
+ GDA_BBW: "Nowy Trzëgard"
+ GDA_BBW_DEF: "Nowe Trójmiasto"
+ GDA_BBW_ADJ: "Nowy Trzëgard"   
+
+ GUR_BBW: "Karpacka Enklawa"
+ GUR_BBW_DEF: "Karpacka Enklawa"
+ GUR_BBW_ADJ: "Karpacka Enklawa"   
+
+ JAS_BBW: "Nowy Związek Jaszczurczy"
+ JAS_BBW_DEF: "Nowy Związek Jaszczurczy"
+ JAS_BBW_ADJ: "Nowy Związek Jaszczurczy"   
+
+ KGH_BBW: "Kolektyw Miedziowy"
+ KGH_BBW_DEF: "Kolektyw Miedziowy"
+ KGH_BBW_ADJ: "Kolektyw Miedziowy" 
+
+ KON_BBW: "Knurschwitz-Bembenau"
+ KON_BBW_DEF: "Knurschwitz-Bembenau"
+ KON_BBW_ADJ: "Knurschwitz-Bembenau"  
+
+ KOR_BBW: "Szarzy Korsarze"
+ KOR_BBW_DEF: "Szarzy Korsarze"
+ KOR_BBW_ADJ: "Szarzy Korsarze"   
+
+ KUJ_BBW: "Nowe Kujawy"
+ KUJ_BBW_DEF: "Nowe Kujawy"
+ KUJ_BBW_ADJ: "Nowe Kujawy"  
+
+ LOT_BBW: "Zakon Najwyższego Czasu"
+ LOT_BBW_DEF: "Zakon Najwyższego Czasu"
+ LOT_BBW_ADJ: "Zakon Najwyższego Czasu"   
+
+ MOT_BBW: "Nocne Wilki"
+ MOT_BBW_DEF: "Nocne Wilki"
+ MOT_BBW_ADJ: "Nocne Wilki"  
+
+ ORL_BBW: "Stołeczna Nafta"
+ ORL_BBW_DEF: "Stołeczna Nafta"
+ ORL_BBW_ADJ: "Stołeczna Nafta"   
+
+ SEI_BBW: "Yotvingia"
+ SEI_BBW_DEF: "Jaćwież"
+ SEI_BBW_ADJ: "Yotvingia" 
+
+ SWI_BBW: "Sinoujście"
+ SWI_BBW_DEF: "Sinoujście"
+ SWI_BBW_ADJ: "Sinoujście"  
+
+ TEN_BBW: "Popielaci Wędrowcy"
+ TEN_BBW_DEF: "Popielaci Wędrowcy"
+ TEN_BBW_ADJ: "Popielaci Wędrowcy"  
+
+ TYK_BBW: "Cesarstwo Tykocińskie"
+ TYK_BBW_DEF: "Cesarstwo Tykocińskie"
+ TYK_BBW_ADJ: "Cesarstwo Tykocińskie" 
+
+ UPA_BBW: "Nowa Republika Czerwieńska"
+ UPA_BBW_DEF: "Nowa Republika Czerwieńska"
+ UPA_BBW_ADJ: "Nowa Republika Czerwieńska"
+
+ WRM_BBW: "Al-Farmiyah"
+ WRM_BBW_DEF: "Al-Farmiyah"
+ WRM_BBW_ADJ: "Al-Farmiyah" 
+
+ ZUL_BBW: "Sudeckie Kryptopolis"
+ ZUL_BBW_DEF: "Sudeckie Kryptopolis"
+ ZUL_BBW_ADJ: "Sudeckie Kryptopolis" 
