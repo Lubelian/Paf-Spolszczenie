@@ -38,16 +38,16 @@ l_polish:
  mechanized:0 "Piechota zmechanizowana"
  mechanized_desc:0 "Troops utilizing armored, but very lightly armed vehicles that deploy infantry straight into the heat of action."
 
- light_armor:0 "Armored Infantry"
+ light_armor:0 "Piechota pancerna"
  light_armor_desc:0 "Heavy mechanized infantry outfitted with something more hard-hitting than small arms and light weapons. Unlike standard mechanized inf, it is capable of both transporting infantry AND directly engaging enemies."
 
- medium_armor:0 "Armored Cavalry"
+ medium_armor:0 "Kawaleria pancerna"
  medium_armor_desc:0 "Tanks, including both modern MBTs, older and lighter tanks as well as whatever makeshift contraptions the warlords are able to come up with."
 
 #arta
  artillery_brigade:0 "Artyleria moździerzowa"
  artillery_brigade_desc:0 "Light artillery designed for firing from and at positions located behind cover."
- self_propelled_mortar_brigade:0 "Mechanized Mortar Art."
+ self_propelled_mortar_brigade:0 "Zmech. artyleria moździerzowa"
  self_propelled_mortar_brigade_desc:0 "Self-propelled mortars capable of much safer indirect fire thanks to their increased range, mobility and armor."
 
  heavy_artillery_brigade:0 "Artyleria" #PIU ADDITION
@@ -55,7 +55,7 @@ l_polish:
 
  mot_artillery_brigade:0 "Zmotoryzowana artyleria"
  mot_artillery_brigade_desc:0 "Gun-armed technicals and/or trucks carrying or transporting large artillery pieces."
- self_propelled_artillery_brigade:0 "Mechanized Artillery"
+ self_propelled_artillery_brigade:0 "Mechanized Artillery" #Zmechanizowana artyleria
  self_propelled_artillery_brigade_desc:0 "Armored vehicles armed with big fuck-off artillery guns."
 
  rocket_artillery_brigade:0 "Artyleria rakietowa"
@@ -107,6 +107,8 @@ l_polish:
  light_tank_recon_desc:0 "Armored vehicles used in a recon role."
  uav_recon:0 "UAV Recon Company"
  uav_recon_desc:0 "Dedicated drone operators providing friendlies with a direct view of what's happening in the field."
+ heli_recon:0 "Helicopter Recon Company"
+ heli_recon_desc:0 "Recon company utilizing helicopters for maximum range and defense against enemy air support."
  
  military_police:0 "Żandarmeria"
  military_police_desc:0 "Żołnierze utrzymujący porządek i zwalczający ruch oporu na zajętych terenach."
@@ -114,6 +116,8 @@ l_polish:
  maintenance_company_desc:0 "Performs various forms of maintenance on division equipment to prevent failure."
  field_hospital:0 "Szpital polowy"
  field_hospital_desc:0 "Provides emergency medical attention to wounded soldiers in the field."
+ medevac:0 "Medevac"
+ medevac_desc:0 ""
  logistics_company:0 "Kompania logistyczna"
  logistics_company_desc:0 "Handles planning, requesting and distributing resources for the division."
  signal_company:0 "Kompania sygnalizacyjna"
