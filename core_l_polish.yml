@@ -39,7 +39,7 @@ l_polish:
 
  energy_modifer:0 "Energia"
  coal_used_by_power_plants_modifier: "Wykorzystywane przez elektrownie"
- coring_cost_factor: "Coring Cost"
+ coring_cost_factor: "Koszt asymilacji"
   
 ##VANILLA## 
  SEPARATION_LINE:0 "--------------\n"
